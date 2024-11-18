@@ -1,22 +1,46 @@
 package com.oku.library.controller;
 
 
+import com.oku.library.jpa.entity.Author;
 import com.oku.library.jpa.entity.Book;
+import com.oku.library.service.AuthorService;
 import com.oku.library.service.BookService;
+//import com.oku.library.service.InventoryService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.repository.Repository;
+import org.springframework.data.repository.query.Param;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.http.ResponseEntity;
 
+import java.util.List;
 import java.util.Optional;
 
 @RestController
 @RequestMapping("/library")
 public class Controller {
 
-    @Autowired
-    private BookService bookService;
+    @Autowired private BookService bookService;
+    @Autowired private AuthorService authorService;
+//    @Autowired private InventoryService inventoryService;
+
 
     @GetMapping(path = "getBookById")
-    public Optional<Book> getBookById(Long bookId){
+    public Optional<Book> getBookById(@Param("getBookById") Long bookId){
         return bookService.getBookById(bookId);
+    }
+
+    @PostMapping(path = "/addAuthor")
+    public ResponseEntity<Author>addAuthor(@RequestBody Author author){
+        return authorService.addAuthor(author);
+    }
+
+    @PostMapping(path = "/addAuthors")
+    public ResponseEntity<List<Author>> addAuthor(@RequestBody List<Author> authorList){
+        return authorService.addAuthors(authorList);
+    }
+
+    @PostMapping(path = "/addBooks")
+    public ResponseEntity <List<Book>> addBooks(@RequestBody List<Book> bookList){
+        return bookService.addBooks(bookList);
     }
 }
