@@ -24,4 +24,9 @@ public class BookService {
         List<Book> savedBook = bookRepo.saveAll(bookList);
         return new ResponseEntity<>(savedBook, HttpStatus.CREATED);
     }
+
+    public ResponseEntity<Optional<Book>> findByIsbn(Long isbn) {
+        Optional<Book> book = bookRepo.findByIsbn(isbn);
+        return new ResponseEntity<>(book, HttpStatus.FOUND);
+    }
 }

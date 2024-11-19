@@ -43,4 +43,9 @@ public class Controller {
     public ResponseEntity <List<Book>> addBooks(@RequestBody List<Book> bookList){
         return bookService.addBooks(bookList);
     }
+
+    @GetMapping(path = "/findBookByIsbn/{isbn}")
+    public ResponseEntity<Optional<Book>>findBookByIsbn(@PathVariable("isbn") Long isbn){
+        return bookService.findByIsbn(isbn);
+    }
 }
