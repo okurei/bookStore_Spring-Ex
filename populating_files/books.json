@@ -1,0 +1,8002 @@
+[
+    {
+        "isbn": 8120413720122,
+        "title": "Book Title 1",
+        "publishDate": 1960,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 5722176643818,
+        "title": "Book Title 2",
+        "publishDate": 1901,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 7558371095429,
+        "title": "Book Title 3",
+        "publishDate": 1925,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 8132429146973,
+        "title": "Book Title 4",
+        "publishDate": 1936,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 7349053857175,
+        "title": "Book Title 5",
+        "publishDate": 2021,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 9490995062656,
+        "title": "Book Title 6",
+        "publishDate": 1969,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 6139358066669,
+        "title": "Book Title 7",
+        "publishDate": 2013,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 3067806799152,
+        "title": "Book Title 8",
+        "publishDate": 1954,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 3793889378672,
+        "title": "Book Title 9",
+        "publishDate": 1927,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 9609513348156,
+        "title": "Book Title 10",
+        "publishDate": 1973,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 6512844548444,
+        "title": "Book Title 11",
+        "publishDate": 1954,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 6827637393830,
+        "title": "Book Title 12",
+        "publishDate": 1964,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 6225769631527,
+        "title": "Book Title 13",
+        "publishDate": 1905,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 8356302388626,
+        "title": "Book Title 14",
+        "publishDate": 2017,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 3618929300516,
+        "title": "Book Title 15",
+        "publishDate": 1931,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 9802763748723,
+        "title": "Book Title 16",
+        "publishDate": 1932,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 6739226750119,
+        "title": "Book Title 17",
+        "publishDate": 2003,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 9291052756862,
+        "title": "Book Title 18",
+        "publishDate": 1936,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 6071380927684,
+        "title": "Book Title 19",
+        "publishDate": 2020,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 6955248904926,
+        "title": "Book Title 20",
+        "publishDate": 1921,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 4719426985603,
+        "title": "Book Title 21",
+        "publishDate": 1924,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 2599019959172,
+        "title": "Book Title 22",
+        "publishDate": 1943,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 9352542861407,
+        "title": "Book Title 23",
+        "publishDate": 1991,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 4808286918649,
+        "title": "Book Title 24",
+        "publishDate": 1991,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 9837966496062,
+        "title": "Book Title 25",
+        "publishDate": 1961,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 5899057069944,
+        "title": "Book Title 26",
+        "publishDate": 1901,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 5283765944734,
+        "title": "Book Title 27",
+        "publishDate": 1913,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 9559046233017,
+        "title": "Book Title 28",
+        "publishDate": 1977,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 3497921930373,
+        "title": "Book Title 29",
+        "publishDate": 2013,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 1833258351240,
+        "title": "Book Title 30",
+        "publishDate": 1989,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 4880031675536,
+        "title": "Book Title 31",
+        "publishDate": 1921,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 2833711297375,
+        "title": "Book Title 32",
+        "publishDate": 1984,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 7264091484249,
+        "title": "Book Title 33",
+        "publishDate": 1989,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 4881671689885,
+        "title": "Book Title 34",
+        "publishDate": 1971,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 8220565519868,
+        "title": "Book Title 35",
+        "publishDate": 1944,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 1910557336128,
+        "title": "Book Title 36",
+        "publishDate": 1905,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 6386510404162,
+        "title": "Book Title 37",
+        "publishDate": 1973,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 8175576494484,
+        "title": "Book Title 38",
+        "publishDate": 2002,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 4977218781331,
+        "title": "Book Title 39",
+        "publishDate": 1943,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 7307552938937,
+        "title": "Book Title 40",
+        "publishDate": 1977,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 9778095053570,
+        "title": "Book Title 41",
+        "publishDate": 1907,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 1415933080483,
+        "title": "Book Title 42",
+        "publishDate": 1929,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 4997850868730,
+        "title": "Book Title 43",
+        "publishDate": 1904,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 1906268830212,
+        "title": "Book Title 44",
+        "publishDate": 1914,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 8564323368349,
+        "title": "Book Title 45",
+        "publishDate": 1938,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 7013264020032,
+        "title": "Book Title 46",
+        "publishDate": 2020,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 1754013002160,
+        "title": "Book Title 47",
+        "publishDate": 1945,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 9556044312501,
+        "title": "Book Title 48",
+        "publishDate": 1957,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 3842240631580,
+        "title": "Book Title 49",
+        "publishDate": 1993,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 9948847320222,
+        "title": "Book Title 50",
+        "publishDate": 1995,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 6279630889503,
+        "title": "Book Title 51",
+        "publishDate": 1989,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 6608812468561,
+        "title": "Book Title 52",
+        "publishDate": 2020,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 9890622253694,
+        "title": "Book Title 53",
+        "publishDate": 1963,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 5839622663930,
+        "title": "Book Title 54",
+        "publishDate": 1950,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 5149436570410,
+        "title": "Book Title 55",
+        "publishDate": 1957,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 9174622928968,
+        "title": "Book Title 56",
+        "publishDate": 2004,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 3847739538681,
+        "title": "Book Title 57",
+        "publishDate": 1982,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 8802149125118,
+        "title": "Book Title 58",
+        "publishDate": 1941,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 9027300362488,
+        "title": "Book Title 59",
+        "publishDate": 1937,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 2659249063797,
+        "title": "Book Title 60",
+        "publishDate": 1990,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 4863111849902,
+        "title": "Book Title 61",
+        "publishDate": 1968,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 4803313196523,
+        "title": "Book Title 62",
+        "publishDate": 1979,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 2451258391784,
+        "title": "Book Title 63",
+        "publishDate": 1974,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 9382994505347,
+        "title": "Book Title 64",
+        "publishDate": 2011,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 5031617769186,
+        "title": "Book Title 65",
+        "publishDate": 1983,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 9783672525297,
+        "title": "Book Title 66",
+        "publishDate": 2023,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 4842339511390,
+        "title": "Book Title 67",
+        "publishDate": 1910,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 1378023626387,
+        "title": "Book Title 68",
+        "publishDate": 1925,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 8421185342953,
+        "title": "Book Title 69",
+        "publishDate": 2005,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 8622371415174,
+        "title": "Book Title 70",
+        "publishDate": 1913,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 8515154193284,
+        "title": "Book Title 71",
+        "publishDate": 1968,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 6914898140542,
+        "title": "Book Title 72",
+        "publishDate": 1984,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 4299110024530,
+        "title": "Book Title 73",
+        "publishDate": 1986,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 5242679341140,
+        "title": "Book Title 74",
+        "publishDate": 1991,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 7761928381933,
+        "title": "Book Title 75",
+        "publishDate": 1932,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 8192958788904,
+        "title": "Book Title 76",
+        "publishDate": 1940,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 8969287346744,
+        "title": "Book Title 77",
+        "publishDate": 1926,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 8510027514532,
+        "title": "Book Title 78",
+        "publishDate": 1936,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 1917690585814,
+        "title": "Book Title 79",
+        "publishDate": 1906,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 8487643518557,
+        "title": "Book Title 80",
+        "publishDate": 1955,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 6909198872125,
+        "title": "Book Title 81",
+        "publishDate": 1953,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 8061966659897,
+        "title": "Book Title 82",
+        "publishDate": 1912,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 9438197912773,
+        "title": "Book Title 83",
+        "publishDate": 1948,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 7430500489703,
+        "title": "Book Title 84",
+        "publishDate": 1952,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 9345070015710,
+        "title": "Book Title 85",
+        "publishDate": 2016,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 8187138688233,
+        "title": "Book Title 86",
+        "publishDate": 1935,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 3622435728380,
+        "title": "Book Title 87",
+        "publishDate": 1920,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 9355141612973,
+        "title": "Book Title 88",
+        "publishDate": 1988,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 9031994528881,
+        "title": "Book Title 89",
+        "publishDate": 1950,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 2593357745102,
+        "title": "Book Title 90",
+        "publishDate": 1940,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 2759968709207,
+        "title": "Book Title 91",
+        "publishDate": 1933,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 4364154762813,
+        "title": "Book Title 92",
+        "publishDate": 1906,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 1099709843315,
+        "title": "Book Title 93",
+        "publishDate": 1929,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 2580918208864,
+        "title": "Book Title 94",
+        "publishDate": 2000,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 5229396275726,
+        "title": "Book Title 95",
+        "publishDate": 1979,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 2995427169829,
+        "title": "Book Title 96",
+        "publishDate": 2003,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 2783929059330,
+        "title": "Book Title 97",
+        "publishDate": 1961,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 2703633500113,
+        "title": "Book Title 98",
+        "publishDate": 1974,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 6658602049652,
+        "title": "Book Title 99",
+        "publishDate": 1948,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 5466456224457,
+        "title": "Book Title 100",
+        "publishDate": 2017,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 2237877236057,
+        "title": "Book Title 101",
+        "publishDate": 1978,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 9322599885812,
+        "title": "Book Title 102",
+        "publishDate": 1972,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 5230032152548,
+        "title": "Book Title 103",
+        "publishDate": 1924,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 1067800106456,
+        "title": "Book Title 104",
+        "publishDate": 1930,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 6351879933014,
+        "title": "Book Title 105",
+        "publishDate": 1985,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 7342183591907,
+        "title": "Book Title 106",
+        "publishDate": 1986,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 7176805064861,
+        "title": "Book Title 107",
+        "publishDate": 1954,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 7568741765413,
+        "title": "Book Title 108",
+        "publishDate": 2010,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 9631945366275,
+        "title": "Book Title 109",
+        "publishDate": 1978,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 9297022526474,
+        "title": "Book Title 110",
+        "publishDate": 1964,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 7553435372865,
+        "title": "Book Title 111",
+        "publishDate": 1987,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 5557947933031,
+        "title": "Book Title 112",
+        "publishDate": 1911,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 7328387934758,
+        "title": "Book Title 113",
+        "publishDate": 2004,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 8398336182864,
+        "title": "Book Title 114",
+        "publishDate": 2015,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 6158438653976,
+        "title": "Book Title 115",
+        "publishDate": 1972,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 4389739641196,
+        "title": "Book Title 116",
+        "publishDate": 1925,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 6231815116558,
+        "title": "Book Title 117",
+        "publishDate": 1931,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 2458592398691,
+        "title": "Book Title 118",
+        "publishDate": 1992,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 2624317457227,
+        "title": "Book Title 119",
+        "publishDate": 1938,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 3338892087858,
+        "title": "Book Title 120",
+        "publishDate": 1917,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 7712440077940,
+        "title": "Book Title 121",
+        "publishDate": 2021,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 4022222551449,
+        "title": "Book Title 122",
+        "publishDate": 1931,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 3212458762478,
+        "title": "Book Title 123",
+        "publishDate": 1935,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 1172152049123,
+        "title": "Book Title 124",
+        "publishDate": 2005,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 9185306208939,
+        "title": "Book Title 125",
+        "publishDate": 1911,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 5150655247300,
+        "title": "Book Title 126",
+        "publishDate": 1921,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 1319428086139,
+        "title": "Book Title 127",
+        "publishDate": 2009,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 5388116210366,
+        "title": "Book Title 128",
+        "publishDate": 1934,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 1733605946467,
+        "title": "Book Title 129",
+        "publishDate": 1945,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 9859592746827,
+        "title": "Book Title 130",
+        "publishDate": 1994,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 1821574620406,
+        "title": "Book Title 131",
+        "publishDate": 1926,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 4437134449894,
+        "title": "Book Title 132",
+        "publishDate": 1999,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 5173060701667,
+        "title": "Book Title 133",
+        "publishDate": 1915,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 9717033582607,
+        "title": "Book Title 134",
+        "publishDate": 1901,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 8857687999752,
+        "title": "Book Title 135",
+        "publishDate": 2019,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 2795706414973,
+        "title": "Book Title 136",
+        "publishDate": 1974,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 4263162563755,
+        "title": "Book Title 137",
+        "publishDate": 1983,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 7978721457397,
+        "title": "Book Title 138",
+        "publishDate": 1985,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 9029812421695,
+        "title": "Book Title 139",
+        "publishDate": 2023,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 7137137375458,
+        "title": "Book Title 140",
+        "publishDate": 2009,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 7059355241780,
+        "title": "Book Title 141",
+        "publishDate": 1919,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 3156821567298,
+        "title": "Book Title 142",
+        "publishDate": 2021,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 5987302857512,
+        "title": "Book Title 143",
+        "publishDate": 1909,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 6505421258315,
+        "title": "Book Title 144",
+        "publishDate": 1943,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 5453914393478,
+        "title": "Book Title 145",
+        "publishDate": 1930,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 7297921275082,
+        "title": "Book Title 146",
+        "publishDate": 1956,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 1871301614969,
+        "title": "Book Title 147",
+        "publishDate": 1904,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 9557643247118,
+        "title": "Book Title 148",
+        "publishDate": 1953,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 3665194399420,
+        "title": "Book Title 149",
+        "publishDate": 2014,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 6049875382234,
+        "title": "Book Title 150",
+        "publishDate": 1957,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 6866679452687,
+        "title": "Book Title 151",
+        "publishDate": 2009,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 9809696536771,
+        "title": "Book Title 152",
+        "publishDate": 1986,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 4963386987005,
+        "title": "Book Title 153",
+        "publishDate": 1911,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 2578910907618,
+        "title": "Book Title 154",
+        "publishDate": 1959,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 1921491184976,
+        "title": "Book Title 155",
+        "publishDate": 1952,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 4483089622744,
+        "title": "Book Title 156",
+        "publishDate": 2015,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 2810334297037,
+        "title": "Book Title 157",
+        "publishDate": 2021,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 5573936983801,
+        "title": "Book Title 158",
+        "publishDate": 1969,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 4721356375789,
+        "title": "Book Title 159",
+        "publishDate": 1960,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 8162972187307,
+        "title": "Book Title 160",
+        "publishDate": 1907,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 8079135709037,
+        "title": "Book Title 161",
+        "publishDate": 1951,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 1497868411932,
+        "title": "Book Title 162",
+        "publishDate": 1960,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 1437637534039,
+        "title": "Book Title 163",
+        "publishDate": 1981,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 4544013862521,
+        "title": "Book Title 164",
+        "publishDate": 1975,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 4282011790083,
+        "title": "Book Title 165",
+        "publishDate": 2009,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 5922891451883,
+        "title": "Book Title 166",
+        "publishDate": 1967,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 6715722454982,
+        "title": "Book Title 167",
+        "publishDate": 1975,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 7616240663721,
+        "title": "Book Title 168",
+        "publishDate": 1979,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 3292980044340,
+        "title": "Book Title 169",
+        "publishDate": 1968,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 1376646032347,
+        "title": "Book Title 170",
+        "publishDate": 1994,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 8605070689854,
+        "title": "Book Title 171",
+        "publishDate": 1985,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 9272937966695,
+        "title": "Book Title 172",
+        "publishDate": 2003,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 3668754838879,
+        "title": "Book Title 173",
+        "publishDate": 1926,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 3511663313677,
+        "title": "Book Title 174",
+        "publishDate": 1965,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 3180988130112,
+        "title": "Book Title 175",
+        "publishDate": 1942,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 7722187564158,
+        "title": "Book Title 176",
+        "publishDate": 1920,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 7037434460423,
+        "title": "Book Title 177",
+        "publishDate": 2011,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 6057837092786,
+        "title": "Book Title 178",
+        "publishDate": 2014,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 3125594369827,
+        "title": "Book Title 179",
+        "publishDate": 2013,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 4561640174912,
+        "title": "Book Title 180",
+        "publishDate": 1999,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 3167085619764,
+        "title": "Book Title 181",
+        "publishDate": 1980,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 1170228100451,
+        "title": "Book Title 182",
+        "publishDate": 1959,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 8190456451192,
+        "title": "Book Title 183",
+        "publishDate": 1978,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 8645131834618,
+        "title": "Book Title 184",
+        "publishDate": 1984,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 5255728617188,
+        "title": "Book Title 185",
+        "publishDate": 1951,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 2362641461432,
+        "title": "Book Title 186",
+        "publishDate": 1925,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 5060903509716,
+        "title": "Book Title 187",
+        "publishDate": 2002,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 9269531204958,
+        "title": "Book Title 188",
+        "publishDate": 1971,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 3285429683479,
+        "title": "Book Title 189",
+        "publishDate": 1934,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 3906038245941,
+        "title": "Book Title 190",
+        "publishDate": 1917,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 8698536986221,
+        "title": "Book Title 191",
+        "publishDate": 1982,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 6472901856420,
+        "title": "Book Title 192",
+        "publishDate": 1902,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 5214857230637,
+        "title": "Book Title 193",
+        "publishDate": 1949,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 9476202154342,
+        "title": "Book Title 194",
+        "publishDate": 1916,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 7270898785443,
+        "title": "Book Title 195",
+        "publishDate": 1935,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 4622134214686,
+        "title": "Book Title 196",
+        "publishDate": 1912,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 2864606582122,
+        "title": "Book Title 197",
+        "publishDate": 1965,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 7461624141723,
+        "title": "Book Title 198",
+        "publishDate": 2017,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 1236172752178,
+        "title": "Book Title 199",
+        "publishDate": 1960,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 3664901486170,
+        "title": "Book Title 200",
+        "publishDate": 1961,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 2354983069275,
+        "title": "Book Title 201",
+        "publishDate": 1913,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 9385188728959,
+        "title": "Book Title 202",
+        "publishDate": 1929,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 8119198373734,
+        "title": "Book Title 203",
+        "publishDate": 1911,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 2568704665279,
+        "title": "Book Title 204",
+        "publishDate": 2018,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 8513744983885,
+        "title": "Book Title 205",
+        "publishDate": 1983,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 9907020585159,
+        "title": "Book Title 206",
+        "publishDate": 1997,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 3257814723352,
+        "title": "Book Title 207",
+        "publishDate": 2010,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 1862485366181,
+        "title": "Book Title 208",
+        "publishDate": 1940,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 8206081707830,
+        "title": "Book Title 209",
+        "publishDate": 1954,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 3867973713732,
+        "title": "Book Title 210",
+        "publishDate": 1976,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 1107651109898,
+        "title": "Book Title 211",
+        "publishDate": 1912,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 7089164214185,
+        "title": "Book Title 212",
+        "publishDate": 1970,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 1856078776794,
+        "title": "Book Title 213",
+        "publishDate": 2005,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 2656683818763,
+        "title": "Book Title 214",
+        "publishDate": 1968,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 3379772066555,
+        "title": "Book Title 215",
+        "publishDate": 1911,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 3066585306845,
+        "title": "Book Title 216",
+        "publishDate": 1982,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 1242173199977,
+        "title": "Book Title 217",
+        "publishDate": 1972,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 4975011618789,
+        "title": "Book Title 218",
+        "publishDate": 1909,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 1795191520982,
+        "title": "Book Title 219",
+        "publishDate": 1906,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 1849372048726,
+        "title": "Book Title 220",
+        "publishDate": 1907,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 2706701974382,
+        "title": "Book Title 221",
+        "publishDate": 2020,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 6927540366930,
+        "title": "Book Title 222",
+        "publishDate": 2020,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 8066770785661,
+        "title": "Book Title 223",
+        "publishDate": 2010,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 3075205944488,
+        "title": "Book Title 224",
+        "publishDate": 1986,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 6478749704817,
+        "title": "Book Title 225",
+        "publishDate": 1948,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 9782059510645,
+        "title": "Book Title 226",
+        "publishDate": 1981,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 6425691254727,
+        "title": "Book Title 227",
+        "publishDate": 1920,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 5807152258942,
+        "title": "Book Title 228",
+        "publishDate": 1931,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 9044507127169,
+        "title": "Book Title 229",
+        "publishDate": 1969,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 5034540758802,
+        "title": "Book Title 230",
+        "publishDate": 2014,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 1654796135809,
+        "title": "Book Title 231",
+        "publishDate": 1907,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 3145230429837,
+        "title": "Book Title 232",
+        "publishDate": 1902,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 9850497162301,
+        "title": "Book Title 233",
+        "publishDate": 1982,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 9812885813437,
+        "title": "Book Title 234",
+        "publishDate": 1990,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 5566295106756,
+        "title": "Book Title 235",
+        "publishDate": 2015,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 7209782391794,
+        "title": "Book Title 236",
+        "publishDate": 1939,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 8011127135746,
+        "title": "Book Title 237",
+        "publishDate": 1967,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 2891009301343,
+        "title": "Book Title 238",
+        "publishDate": 1958,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 9660657695637,
+        "title": "Book Title 239",
+        "publishDate": 1948,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 4238411707571,
+        "title": "Book Title 240",
+        "publishDate": 1931,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 3466901005356,
+        "title": "Book Title 241",
+        "publishDate": 1966,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 8187979745548,
+        "title": "Book Title 242",
+        "publishDate": 1926,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 6256609233488,
+        "title": "Book Title 243",
+        "publishDate": 1940,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 3949346153369,
+        "title": "Book Title 244",
+        "publishDate": 2011,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 9705405923711,
+        "title": "Book Title 245",
+        "publishDate": 2001,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 3005459717195,
+        "title": "Book Title 246",
+        "publishDate": 1972,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 1133581789560,
+        "title": "Book Title 247",
+        "publishDate": 1901,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 6437747752058,
+        "title": "Book Title 248",
+        "publishDate": 1913,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 1205569455351,
+        "title": "Book Title 249",
+        "publishDate": 1948,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 4662964355763,
+        "title": "Book Title 250",
+        "publishDate": 1947,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 9390296535941,
+        "title": "Book Title 251",
+        "publishDate": 1967,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 9051425548481,
+        "title": "Book Title 252",
+        "publishDate": 1996,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 6694501846729,
+        "title": "Book Title 253",
+        "publishDate": 1977,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 3964174108049,
+        "title": "Book Title 254",
+        "publishDate": 1967,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 1624348806912,
+        "title": "Book Title 255",
+        "publishDate": 2004,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 8054488607177,
+        "title": "Book Title 256",
+        "publishDate": 1975,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 8134569294405,
+        "title": "Book Title 257",
+        "publishDate": 1954,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 2779023148750,
+        "title": "Book Title 258",
+        "publishDate": 1908,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 5382639594493,
+        "title": "Book Title 259",
+        "publishDate": 2004,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 5520049883006,
+        "title": "Book Title 260",
+        "publishDate": 2023,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 1868390768448,
+        "title": "Book Title 261",
+        "publishDate": 1968,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 2724855153634,
+        "title": "Book Title 262",
+        "publishDate": 1935,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 7256143342466,
+        "title": "Book Title 263",
+        "publishDate": 2017,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 9893296530108,
+        "title": "Book Title 264",
+        "publishDate": 1948,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 9679412989388,
+        "title": "Book Title 265",
+        "publishDate": 1998,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 6042266671121,
+        "title": "Book Title 266",
+        "publishDate": 1940,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 3160912572551,
+        "title": "Book Title 267",
+        "publishDate": 1925,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 4369565975351,
+        "title": "Book Title 268",
+        "publishDate": 2006,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 8653815082930,
+        "title": "Book Title 269",
+        "publishDate": 2009,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 7791192081446,
+        "title": "Book Title 270",
+        "publishDate": 1963,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 3371516603773,
+        "title": "Book Title 271",
+        "publishDate": 1919,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 2786703221478,
+        "title": "Book Title 272",
+        "publishDate": 1912,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 3167563423364,
+        "title": "Book Title 273",
+        "publishDate": 1929,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 8145142146312,
+        "title": "Book Title 274",
+        "publishDate": 2024,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 5683352546294,
+        "title": "Book Title 275",
+        "publishDate": 1939,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 7486868669560,
+        "title": "Book Title 276",
+        "publishDate": 1992,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 6272682063691,
+        "title": "Book Title 277",
+        "publishDate": 1998,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 6308693260356,
+        "title": "Book Title 278",
+        "publishDate": 1943,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 8125913932096,
+        "title": "Book Title 279",
+        "publishDate": 1917,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 5421697308640,
+        "title": "Book Title 280",
+        "publishDate": 1962,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 6889213940964,
+        "title": "Book Title 281",
+        "publishDate": 1977,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 8669158990477,
+        "title": "Book Title 282",
+        "publishDate": 1936,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 4650394910566,
+        "title": "Book Title 283",
+        "publishDate": 1996,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 5060801904455,
+        "title": "Book Title 284",
+        "publishDate": 1987,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 7936388336889,
+        "title": "Book Title 285",
+        "publishDate": 1969,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 2835187776148,
+        "title": "Book Title 286",
+        "publishDate": 1971,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 5815188162068,
+        "title": "Book Title 287",
+        "publishDate": 1975,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 7863490681116,
+        "title": "Book Title 288",
+        "publishDate": 2005,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 4819195126257,
+        "title": "Book Title 289",
+        "publishDate": 1987,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 3019029445195,
+        "title": "Book Title 290",
+        "publishDate": 1960,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 7682405025485,
+        "title": "Book Title 291",
+        "publishDate": 1965,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 9228053293613,
+        "title": "Book Title 292",
+        "publishDate": 1956,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 9541380370382,
+        "title": "Book Title 293",
+        "publishDate": 1940,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 9312275438747,
+        "title": "Book Title 294",
+        "publishDate": 1923,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 1732721608478,
+        "title": "Book Title 295",
+        "publishDate": 1980,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 5693871654816,
+        "title": "Book Title 296",
+        "publishDate": 1951,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 7484019312931,
+        "title": "Book Title 297",
+        "publishDate": 1978,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 3378382999625,
+        "title": "Book Title 298",
+        "publishDate": 1987,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 6434395062888,
+        "title": "Book Title 299",
+        "publishDate": 1912,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 7566075623901,
+        "title": "Book Title 300",
+        "publishDate": 1919,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 5367357462092,
+        "title": "Book Title 301",
+        "publishDate": 1942,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 1168139370719,
+        "title": "Book Title 302",
+        "publishDate": 1946,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 3096931998598,
+        "title": "Book Title 303",
+        "publishDate": 1918,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 7844306552786,
+        "title": "Book Title 304",
+        "publishDate": 1962,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 3110046085464,
+        "title": "Book Title 305",
+        "publishDate": 1991,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 6203559708163,
+        "title": "Book Title 306",
+        "publishDate": 1980,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 7461822988895,
+        "title": "Book Title 307",
+        "publishDate": 2003,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 6129756602922,
+        "title": "Book Title 308",
+        "publishDate": 1988,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 4721657149246,
+        "title": "Book Title 309",
+        "publishDate": 1998,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 4557728260637,
+        "title": "Book Title 310",
+        "publishDate": 1975,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 9230472519594,
+        "title": "Book Title 311",
+        "publishDate": 1953,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 6230132826716,
+        "title": "Book Title 312",
+        "publishDate": 1948,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 3852258389122,
+        "title": "Book Title 313",
+        "publishDate": 1969,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 6538802802956,
+        "title": "Book Title 314",
+        "publishDate": 2007,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 1188947484124,
+        "title": "Book Title 315",
+        "publishDate": 1902,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 7789790615890,
+        "title": "Book Title 316",
+        "publishDate": 2007,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 5497390845775,
+        "title": "Book Title 317",
+        "publishDate": 1992,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 4635231366172,
+        "title": "Book Title 318",
+        "publishDate": 1977,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 6061276879288,
+        "title": "Book Title 319",
+        "publishDate": 1953,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 1165180099625,
+        "title": "Book Title 320",
+        "publishDate": 1982,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 3805503502099,
+        "title": "Book Title 321",
+        "publishDate": 1902,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 2124061835032,
+        "title": "Book Title 322",
+        "publishDate": 1915,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 5648414209671,
+        "title": "Book Title 323",
+        "publishDate": 2002,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 9238553019279,
+        "title": "Book Title 324",
+        "publishDate": 1939,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 6973147732769,
+        "title": "Book Title 325",
+        "publishDate": 1999,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 2823098317331,
+        "title": "Book Title 326",
+        "publishDate": 1925,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 3802533063050,
+        "title": "Book Title 327",
+        "publishDate": 1933,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 8535707312823,
+        "title": "Book Title 328",
+        "publishDate": 1962,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 9341480993490,
+        "title": "Book Title 329",
+        "publishDate": 1971,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 4440241584459,
+        "title": "Book Title 330",
+        "publishDate": 1961,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 2429180393845,
+        "title": "Book Title 331",
+        "publishDate": 2012,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 8251668209047,
+        "title": "Book Title 332",
+        "publishDate": 1924,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 7495173562164,
+        "title": "Book Title 333",
+        "publishDate": 2022,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 5001679241698,
+        "title": "Book Title 334",
+        "publishDate": 1974,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 4098141142486,
+        "title": "Book Title 335",
+        "publishDate": 1971,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 2477151786742,
+        "title": "Book Title 336",
+        "publishDate": 1965,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 2653952736977,
+        "title": "Book Title 337",
+        "publishDate": 1925,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 1007337809930,
+        "title": "Book Title 338",
+        "publishDate": 1988,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 7171020383424,
+        "title": "Book Title 339",
+        "publishDate": 1938,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 4497095106362,
+        "title": "Book Title 340",
+        "publishDate": 2012,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 5182508297678,
+        "title": "Book Title 341",
+        "publishDate": 1901,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 3930918931062,
+        "title": "Book Title 342",
+        "publishDate": 1912,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 9059365735899,
+        "title": "Book Title 343",
+        "publishDate": 1949,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 9005924585058,
+        "title": "Book Title 344",
+        "publishDate": 2011,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 7691543130932,
+        "title": "Book Title 345",
+        "publishDate": 1909,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 9218210308684,
+        "title": "Book Title 346",
+        "publishDate": 1995,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 4444606762534,
+        "title": "Book Title 347",
+        "publishDate": 2016,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 4573897293090,
+        "title": "Book Title 348",
+        "publishDate": 1920,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 9844300048579,
+        "title": "Book Title 349",
+        "publishDate": 1970,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 5258464532371,
+        "title": "Book Title 350",
+        "publishDate": 2016,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 2545973944016,
+        "title": "Book Title 351",
+        "publishDate": 1915,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 2398704755371,
+        "title": "Book Title 352",
+        "publishDate": 1931,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 2822690429920,
+        "title": "Book Title 353",
+        "publishDate": 1903,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 5070235874200,
+        "title": "Book Title 354",
+        "publishDate": 1946,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 1687204286582,
+        "title": "Book Title 355",
+        "publishDate": 2012,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 8670371268565,
+        "title": "Book Title 356",
+        "publishDate": 1909,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 9870684550581,
+        "title": "Book Title 357",
+        "publishDate": 1950,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 8134054227971,
+        "title": "Book Title 358",
+        "publishDate": 1913,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 9546615233919,
+        "title": "Book Title 359",
+        "publishDate": 1995,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 6896139231372,
+        "title": "Book Title 360",
+        "publishDate": 2002,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 3471109178989,
+        "title": "Book Title 361",
+        "publishDate": 1962,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 6122868133856,
+        "title": "Book Title 362",
+        "publishDate": 1970,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 3796701221228,
+        "title": "Book Title 363",
+        "publishDate": 1986,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 1169473330491,
+        "title": "Book Title 364",
+        "publishDate": 2009,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 6586248898895,
+        "title": "Book Title 365",
+        "publishDate": 1943,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 3574948422344,
+        "title": "Book Title 366",
+        "publishDate": 1969,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 1053195636539,
+        "title": "Book Title 367",
+        "publishDate": 1969,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 9740495620303,
+        "title": "Book Title 368",
+        "publishDate": 1969,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 6158703722857,
+        "title": "Book Title 369",
+        "publishDate": 1958,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 7486639053879,
+        "title": "Book Title 370",
+        "publishDate": 1909,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 6917800429428,
+        "title": "Book Title 371",
+        "publishDate": 1937,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 4257909886617,
+        "title": "Book Title 372",
+        "publishDate": 1972,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 7276135370946,
+        "title": "Book Title 373",
+        "publishDate": 2012,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 6663687494759,
+        "title": "Book Title 374",
+        "publishDate": 1978,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 1968350723927,
+        "title": "Book Title 375",
+        "publishDate": 1998,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 8192015938998,
+        "title": "Book Title 376",
+        "publishDate": 2000,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 3742103308740,
+        "title": "Book Title 377",
+        "publishDate": 1921,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 5112094180959,
+        "title": "Book Title 378",
+        "publishDate": 1984,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 7494896559385,
+        "title": "Book Title 379",
+        "publishDate": 1957,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 9837204995585,
+        "title": "Book Title 380",
+        "publishDate": 1976,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 6235251441200,
+        "title": "Book Title 381",
+        "publishDate": 2010,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 9799646778746,
+        "title": "Book Title 382",
+        "publishDate": 1984,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 9234908743382,
+        "title": "Book Title 383",
+        "publishDate": 1981,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 8130218108383,
+        "title": "Book Title 384",
+        "publishDate": 1900,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 8016090506907,
+        "title": "Book Title 385",
+        "publishDate": 1971,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 8763372937506,
+        "title": "Book Title 386",
+        "publishDate": 1957,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 5200075148772,
+        "title": "Book Title 387",
+        "publishDate": 2000,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 2512328531215,
+        "title": "Book Title 388",
+        "publishDate": 2000,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 7000447531692,
+        "title": "Book Title 389",
+        "publishDate": 1907,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 9738529576854,
+        "title": "Book Title 390",
+        "publishDate": 1987,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 8793051511373,
+        "title": "Book Title 391",
+        "publishDate": 1966,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 2692669430862,
+        "title": "Book Title 392",
+        "publishDate": 2021,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 9959705457983,
+        "title": "Book Title 393",
+        "publishDate": 1911,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 1001802295749,
+        "title": "Book Title 394",
+        "publishDate": 1983,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 5558895589203,
+        "title": "Book Title 395",
+        "publishDate": 1914,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 9758671570853,
+        "title": "Book Title 396",
+        "publishDate": 2008,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 3819414753187,
+        "title": "Book Title 397",
+        "publishDate": 1990,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 7406570939561,
+        "title": "Book Title 398",
+        "publishDate": 2023,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 2683752533695,
+        "title": "Book Title 399",
+        "publishDate": 1973,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 6902222075739,
+        "title": "Book Title 400",
+        "publishDate": 1981,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 6277647475490,
+        "title": "Book Title 401",
+        "publishDate": 1942,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 2805754375257,
+        "title": "Book Title 402",
+        "publishDate": 1926,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 9032947431498,
+        "title": "Book Title 403",
+        "publishDate": 1928,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 2444108084793,
+        "title": "Book Title 404",
+        "publishDate": 2011,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 9573510799685,
+        "title": "Book Title 405",
+        "publishDate": 2002,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 3140049643271,
+        "title": "Book Title 406",
+        "publishDate": 1980,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 3461916190121,
+        "title": "Book Title 407",
+        "publishDate": 2017,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 6185606284109,
+        "title": "Book Title 408",
+        "publishDate": 1958,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 1269462393579,
+        "title": "Book Title 409",
+        "publishDate": 1907,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 3360516262436,
+        "title": "Book Title 410",
+        "publishDate": 2022,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 6188446089840,
+        "title": "Book Title 411",
+        "publishDate": 1917,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 6230858189880,
+        "title": "Book Title 412",
+        "publishDate": 1977,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 2274973405897,
+        "title": "Book Title 413",
+        "publishDate": 2010,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 4636682881657,
+        "title": "Book Title 414",
+        "publishDate": 1921,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 5039291021159,
+        "title": "Book Title 415",
+        "publishDate": 1916,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 8358253680809,
+        "title": "Book Title 416",
+        "publishDate": 1937,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 3250274941978,
+        "title": "Book Title 417",
+        "publishDate": 1931,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 2545646119393,
+        "title": "Book Title 418",
+        "publishDate": 1983,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 8929668087014,
+        "title": "Book Title 419",
+        "publishDate": 1960,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 7465663778195,
+        "title": "Book Title 420",
+        "publishDate": 1939,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 3583313165328,
+        "title": "Book Title 421",
+        "publishDate": 1970,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 2692781862521,
+        "title": "Book Title 422",
+        "publishDate": 2007,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 6844933321164,
+        "title": "Book Title 423",
+        "publishDate": 1931,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 2955878255076,
+        "title": "Book Title 424",
+        "publishDate": 1969,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 6385978693577,
+        "title": "Book Title 425",
+        "publishDate": 2011,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 5304851073617,
+        "title": "Book Title 426",
+        "publishDate": 1906,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 4044731049265,
+        "title": "Book Title 427",
+        "publishDate": 1936,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 2279425893974,
+        "title": "Book Title 428",
+        "publishDate": 1962,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 8896054728770,
+        "title": "Book Title 429",
+        "publishDate": 1987,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 9154062283874,
+        "title": "Book Title 430",
+        "publishDate": 1937,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 7045557702729,
+        "title": "Book Title 431",
+        "publishDate": 1906,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 8745161838188,
+        "title": "Book Title 432",
+        "publishDate": 1907,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 9813503302787,
+        "title": "Book Title 433",
+        "publishDate": 1904,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 6751985218300,
+        "title": "Book Title 434",
+        "publishDate": 1904,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 1990814005019,
+        "title": "Book Title 435",
+        "publishDate": 1980,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 7606419939697,
+        "title": "Book Title 436",
+        "publishDate": 1901,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 8868926360243,
+        "title": "Book Title 437",
+        "publishDate": 1997,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 5487717597902,
+        "title": "Book Title 438",
+        "publishDate": 1908,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 6495260438615,
+        "title": "Book Title 439",
+        "publishDate": 2007,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 2741101807887,
+        "title": "Book Title 440",
+        "publishDate": 1955,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 6857149621398,
+        "title": "Book Title 441",
+        "publishDate": 1966,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 3650557936313,
+        "title": "Book Title 442",
+        "publishDate": 1940,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 2705436303264,
+        "title": "Book Title 443",
+        "publishDate": 1962,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 5087672151512,
+        "title": "Book Title 444",
+        "publishDate": 1952,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 3529776138542,
+        "title": "Book Title 445",
+        "publishDate": 1972,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 3100488122872,
+        "title": "Book Title 446",
+        "publishDate": 2020,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 7230028402998,
+        "title": "Book Title 447",
+        "publishDate": 1921,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 3888651467768,
+        "title": "Book Title 448",
+        "publishDate": 1988,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 4141100171904,
+        "title": "Book Title 449",
+        "publishDate": 1925,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 3894446163516,
+        "title": "Book Title 450",
+        "publishDate": 1955,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 1927655242958,
+        "title": "Book Title 451",
+        "publishDate": 1940,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 4132412408826,
+        "title": "Book Title 452",
+        "publishDate": 1979,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 5572550151276,
+        "title": "Book Title 453",
+        "publishDate": 2018,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 2410410418158,
+        "title": "Book Title 454",
+        "publishDate": 1948,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 5653767156967,
+        "title": "Book Title 455",
+        "publishDate": 1967,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 9239516702595,
+        "title": "Book Title 456",
+        "publishDate": 1949,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 5565583115433,
+        "title": "Book Title 457",
+        "publishDate": 1953,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 1410639585649,
+        "title": "Book Title 458",
+        "publishDate": 1985,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 2415466640189,
+        "title": "Book Title 459",
+        "publishDate": 1958,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 3790303965958,
+        "title": "Book Title 460",
+        "publishDate": 1932,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 4905464558251,
+        "title": "Book Title 461",
+        "publishDate": 1932,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 7987625196508,
+        "title": "Book Title 462",
+        "publishDate": 1955,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 4700672656575,
+        "title": "Book Title 463",
+        "publishDate": 1902,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 9417385498366,
+        "title": "Book Title 464",
+        "publishDate": 1915,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 4032454950415,
+        "title": "Book Title 465",
+        "publishDate": 1960,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 1076879941611,
+        "title": "Book Title 466",
+        "publishDate": 1945,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 3179401284856,
+        "title": "Book Title 467",
+        "publishDate": 1927,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 3963355524522,
+        "title": "Book Title 468",
+        "publishDate": 1959,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 6381185385218,
+        "title": "Book Title 469",
+        "publishDate": 1954,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 2014429515341,
+        "title": "Book Title 470",
+        "publishDate": 1962,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 4378364794636,
+        "title": "Book Title 471",
+        "publishDate": 1961,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 1623813406432,
+        "title": "Book Title 472",
+        "publishDate": 2008,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 7241458899431,
+        "title": "Book Title 473",
+        "publishDate": 1956,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 4195304303167,
+        "title": "Book Title 474",
+        "publishDate": 1946,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 1165820930134,
+        "title": "Book Title 475",
+        "publishDate": 1900,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 1279102366512,
+        "title": "Book Title 476",
+        "publishDate": 1937,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 6150329538576,
+        "title": "Book Title 477",
+        "publishDate": 1910,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 1242026009900,
+        "title": "Book Title 478",
+        "publishDate": 2003,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 4770080098756,
+        "title": "Book Title 479",
+        "publishDate": 1969,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 9008563160231,
+        "title": "Book Title 480",
+        "publishDate": 1950,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 6604974946998,
+        "title": "Book Title 481",
+        "publishDate": 2013,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 5315778755612,
+        "title": "Book Title 482",
+        "publishDate": 1943,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 1758639825996,
+        "title": "Book Title 483",
+        "publishDate": 2021,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 7888769287290,
+        "title": "Book Title 484",
+        "publishDate": 1981,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 9318213889837,
+        "title": "Book Title 485",
+        "publishDate": 1999,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 6941912033984,
+        "title": "Book Title 486",
+        "publishDate": 2016,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 7656205639136,
+        "title": "Book Title 487",
+        "publishDate": 1979,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 4199505475120,
+        "title": "Book Title 488",
+        "publishDate": 1978,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 2819707708838,
+        "title": "Book Title 489",
+        "publishDate": 1902,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 4997948882821,
+        "title": "Book Title 490",
+        "publishDate": 1930,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 7753944493302,
+        "title": "Book Title 491",
+        "publishDate": 1938,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 8665050378508,
+        "title": "Book Title 492",
+        "publishDate": 1916,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 6957879880872,
+        "title": "Book Title 493",
+        "publishDate": 1905,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 8175175612578,
+        "title": "Book Title 494",
+        "publishDate": 1957,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 8494017347947,
+        "title": "Book Title 495",
+        "publishDate": 1943,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 4714464428282,
+        "title": "Book Title 496",
+        "publishDate": 2024,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 1404271996923,
+        "title": "Book Title 497",
+        "publishDate": 1920,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 3409385525982,
+        "title": "Book Title 498",
+        "publishDate": 1903,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 3965931860094,
+        "title": "Book Title 499",
+        "publishDate": 1987,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 3866455604166,
+        "title": "Book Title 500",
+        "publishDate": 1918,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 5148811931045,
+        "title": "Book Title 501",
+        "publishDate": 1987,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 1486550526385,
+        "title": "Book Title 502",
+        "publishDate": 1939,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 2383495366160,
+        "title": "Book Title 503",
+        "publishDate": 1949,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 3950721057611,
+        "title": "Book Title 504",
+        "publishDate": 1924,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 2213409648664,
+        "title": "Book Title 505",
+        "publishDate": 2008,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 4892689713094,
+        "title": "Book Title 506",
+        "publishDate": 1909,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 1108641164686,
+        "title": "Book Title 507",
+        "publishDate": 2020,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 1682844553806,
+        "title": "Book Title 508",
+        "publishDate": 1979,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 5159176336625,
+        "title": "Book Title 509",
+        "publishDate": 1968,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 7289466125235,
+        "title": "Book Title 510",
+        "publishDate": 2013,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 5630929446546,
+        "title": "Book Title 511",
+        "publishDate": 1956,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 4013360287430,
+        "title": "Book Title 512",
+        "publishDate": 1911,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 7365802468188,
+        "title": "Book Title 513",
+        "publishDate": 1908,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 6214645697808,
+        "title": "Book Title 514",
+        "publishDate": 2016,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 5643104262643,
+        "title": "Book Title 515",
+        "publishDate": 1935,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 7251750552616,
+        "title": "Book Title 516",
+        "publishDate": 1962,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 5797381575816,
+        "title": "Book Title 517",
+        "publishDate": 1953,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 6794107865467,
+        "title": "Book Title 518",
+        "publishDate": 1919,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 7531474981458,
+        "title": "Book Title 519",
+        "publishDate": 1912,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 6201273568706,
+        "title": "Book Title 520",
+        "publishDate": 2015,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 2773492802238,
+        "title": "Book Title 521",
+        "publishDate": 1957,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 1173379992196,
+        "title": "Book Title 522",
+        "publishDate": 1943,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 8769837942947,
+        "title": "Book Title 523",
+        "publishDate": 1919,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 8008131740285,
+        "title": "Book Title 524",
+        "publishDate": 1995,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 8715177300111,
+        "title": "Book Title 525",
+        "publishDate": 2012,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 8058303959490,
+        "title": "Book Title 526",
+        "publishDate": 1909,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 8102491098527,
+        "title": "Book Title 527",
+        "publishDate": 1916,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 8405778752121,
+        "title": "Book Title 528",
+        "publishDate": 1938,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 5715370734073,
+        "title": "Book Title 529",
+        "publishDate": 1903,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 3665055061436,
+        "title": "Book Title 530",
+        "publishDate": 2015,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 4763114394731,
+        "title": "Book Title 531",
+        "publishDate": 1972,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 9826698275168,
+        "title": "Book Title 532",
+        "publishDate": 1938,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 2965358382444,
+        "title": "Book Title 533",
+        "publishDate": 2003,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 5440663947470,
+        "title": "Book Title 534",
+        "publishDate": 1987,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 3474426480721,
+        "title": "Book Title 535",
+        "publishDate": 1950,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 9012153546044,
+        "title": "Book Title 536",
+        "publishDate": 1958,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 6068312646688,
+        "title": "Book Title 537",
+        "publishDate": 2000,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 8070706529414,
+        "title": "Book Title 538",
+        "publishDate": 1912,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 7066409347090,
+        "title": "Book Title 539",
+        "publishDate": 1966,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 3270818297530,
+        "title": "Book Title 540",
+        "publishDate": 2008,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 8624002440057,
+        "title": "Book Title 541",
+        "publishDate": 1934,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 6456014504245,
+        "title": "Book Title 542",
+        "publishDate": 1934,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 7673381758612,
+        "title": "Book Title 543",
+        "publishDate": 1941,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 1376942922905,
+        "title": "Book Title 544",
+        "publishDate": 1992,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 6770049022967,
+        "title": "Book Title 545",
+        "publishDate": 1994,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 4039975186968,
+        "title": "Book Title 546",
+        "publishDate": 1960,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 6782854450051,
+        "title": "Book Title 547",
+        "publishDate": 1971,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 8785335512900,
+        "title": "Book Title 548",
+        "publishDate": 2003,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 6400721413182,
+        "title": "Book Title 549",
+        "publishDate": 1913,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 7332383472717,
+        "title": "Book Title 550",
+        "publishDate": 2014,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 7998225390466,
+        "title": "Book Title 551",
+        "publishDate": 2018,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 9479559223896,
+        "title": "Book Title 552",
+        "publishDate": 2015,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 6828429271586,
+        "title": "Book Title 553",
+        "publishDate": 1940,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 7483949886266,
+        "title": "Book Title 554",
+        "publishDate": 2023,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 2652885599344,
+        "title": "Book Title 555",
+        "publishDate": 1934,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 6946998345070,
+        "title": "Book Title 556",
+        "publishDate": 1944,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 3920683717113,
+        "title": "Book Title 557",
+        "publishDate": 2003,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 7528615353390,
+        "title": "Book Title 558",
+        "publishDate": 1920,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 1582265702133,
+        "title": "Book Title 559",
+        "publishDate": 1982,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 9762701496911,
+        "title": "Book Title 560",
+        "publishDate": 1901,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 6688011717806,
+        "title": "Book Title 561",
+        "publishDate": 2013,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 2487515017287,
+        "title": "Book Title 562",
+        "publishDate": 1954,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 5611557107902,
+        "title": "Book Title 563",
+        "publishDate": 1906,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 6796398650665,
+        "title": "Book Title 564",
+        "publishDate": 1951,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 3682969315949,
+        "title": "Book Title 565",
+        "publishDate": 1986,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 3323388055128,
+        "title": "Book Title 566",
+        "publishDate": 1910,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 2921776499423,
+        "title": "Book Title 567",
+        "publishDate": 1927,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 2717453500298,
+        "title": "Book Title 568",
+        "publishDate": 1980,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 5482925364296,
+        "title": "Book Title 569",
+        "publishDate": 1984,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 9661447453246,
+        "title": "Book Title 570",
+        "publishDate": 1916,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 6082970590399,
+        "title": "Book Title 571",
+        "publishDate": 1978,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 6181476500651,
+        "title": "Book Title 572",
+        "publishDate": 1975,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 2882475359886,
+        "title": "Book Title 573",
+        "publishDate": 1989,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 8642509161848,
+        "title": "Book Title 574",
+        "publishDate": 1955,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 1294472608503,
+        "title": "Book Title 575",
+        "publishDate": 1923,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 6489843558438,
+        "title": "Book Title 576",
+        "publishDate": 1952,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 7257907111937,
+        "title": "Book Title 577",
+        "publishDate": 1989,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 6683007258287,
+        "title": "Book Title 578",
+        "publishDate": 1927,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 6863576139249,
+        "title": "Book Title 579",
+        "publishDate": 1966,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 8737794872036,
+        "title": "Book Title 580",
+        "publishDate": 1963,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 3623379274888,
+        "title": "Book Title 581",
+        "publishDate": 1979,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 8619117217110,
+        "title": "Book Title 582",
+        "publishDate": 1938,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 9165725928678,
+        "title": "Book Title 583",
+        "publishDate": 1985,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 5829070377984,
+        "title": "Book Title 584",
+        "publishDate": 1969,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 5693416537551,
+        "title": "Book Title 585",
+        "publishDate": 1909,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 9739006283239,
+        "title": "Book Title 586",
+        "publishDate": 1974,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 8541241683066,
+        "title": "Book Title 587",
+        "publishDate": 2016,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 7599447073740,
+        "title": "Book Title 588",
+        "publishDate": 1906,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 7632873430922,
+        "title": "Book Title 589",
+        "publishDate": 1927,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 5177025446317,
+        "title": "Book Title 590",
+        "publishDate": 1988,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 4744655681061,
+        "title": "Book Title 591",
+        "publishDate": 1951,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 3050042939657,
+        "title": "Book Title 592",
+        "publishDate": 1919,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 7813619031276,
+        "title": "Book Title 593",
+        "publishDate": 2021,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 1094776382481,
+        "title": "Book Title 594",
+        "publishDate": 1900,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 7577328241847,
+        "title": "Book Title 595",
+        "publishDate": 1946,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 7533955676460,
+        "title": "Book Title 596",
+        "publishDate": 1923,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 2288858562606,
+        "title": "Book Title 597",
+        "publishDate": 1996,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 4159983727740,
+        "title": "Book Title 598",
+        "publishDate": 1949,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 2449935089241,
+        "title": "Book Title 599",
+        "publishDate": 1919,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 1140801826527,
+        "title": "Book Title 600",
+        "publishDate": 1952,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 4125854397782,
+        "title": "Book Title 601",
+        "publishDate": 1924,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 7500858004581,
+        "title": "Book Title 602",
+        "publishDate": 1987,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 3129048735627,
+        "title": "Book Title 603",
+        "publishDate": 1915,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 1434828635029,
+        "title": "Book Title 604",
+        "publishDate": 2002,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 8810036938454,
+        "title": "Book Title 605",
+        "publishDate": 1922,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 6600444360604,
+        "title": "Book Title 606",
+        "publishDate": 1916,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 6350360354623,
+        "title": "Book Title 607",
+        "publishDate": 1965,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 4755438887353,
+        "title": "Book Title 608",
+        "publishDate": 1973,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 1150654019434,
+        "title": "Book Title 609",
+        "publishDate": 1905,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 8993591834127,
+        "title": "Book Title 610",
+        "publishDate": 1914,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 1098175567654,
+        "title": "Book Title 611",
+        "publishDate": 2022,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 1871838882665,
+        "title": "Book Title 612",
+        "publishDate": 1932,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 8855537530326,
+        "title": "Book Title 613",
+        "publishDate": 1919,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 8958216109349,
+        "title": "Book Title 614",
+        "publishDate": 1971,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 8960974181498,
+        "title": "Book Title 615",
+        "publishDate": 1918,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 1240501760776,
+        "title": "Book Title 616",
+        "publishDate": 1948,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 9126286011558,
+        "title": "Book Title 617",
+        "publishDate": 1928,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 6565373641632,
+        "title": "Book Title 618",
+        "publishDate": 1944,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 2261494900616,
+        "title": "Book Title 619",
+        "publishDate": 1904,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 4392162917572,
+        "title": "Book Title 620",
+        "publishDate": 1937,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 8459342464395,
+        "title": "Book Title 621",
+        "publishDate": 1987,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 7027538522918,
+        "title": "Book Title 622",
+        "publishDate": 1990,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 7000892608807,
+        "title": "Book Title 623",
+        "publishDate": 1968,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 5439807080252,
+        "title": "Book Title 624",
+        "publishDate": 1929,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 6565209632419,
+        "title": "Book Title 625",
+        "publishDate": 1947,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 4993889276984,
+        "title": "Book Title 626",
+        "publishDate": 2010,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 3112613785973,
+        "title": "Book Title 627",
+        "publishDate": 1926,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 1709951795398,
+        "title": "Book Title 628",
+        "publishDate": 1986,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 4657691525704,
+        "title": "Book Title 629",
+        "publishDate": 1972,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 6499266702782,
+        "title": "Book Title 630",
+        "publishDate": 1925,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 3599676139976,
+        "title": "Book Title 631",
+        "publishDate": 1928,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 7804970279578,
+        "title": "Book Title 632",
+        "publishDate": 1987,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 3707025498240,
+        "title": "Book Title 633",
+        "publishDate": 1932,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 9465588370136,
+        "title": "Book Title 634",
+        "publishDate": 1970,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 5077947285562,
+        "title": "Book Title 635",
+        "publishDate": 1912,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 4238808719164,
+        "title": "Book Title 636",
+        "publishDate": 1973,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 8148439839590,
+        "title": "Book Title 637",
+        "publishDate": 1983,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 6775526951393,
+        "title": "Book Title 638",
+        "publishDate": 2016,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 1341614456142,
+        "title": "Book Title 639",
+        "publishDate": 2017,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 4999917689630,
+        "title": "Book Title 640",
+        "publishDate": 2012,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 5910812345813,
+        "title": "Book Title 641",
+        "publishDate": 1936,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 5932568754187,
+        "title": "Book Title 642",
+        "publishDate": 1937,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 7026195495972,
+        "title": "Book Title 643",
+        "publishDate": 1956,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 6234294186241,
+        "title": "Book Title 644",
+        "publishDate": 2016,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 5543273014659,
+        "title": "Book Title 645",
+        "publishDate": 1985,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 7219035613344,
+        "title": "Book Title 646",
+        "publishDate": 1911,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 3879940094357,
+        "title": "Book Title 647",
+        "publishDate": 1992,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 4855372034845,
+        "title": "Book Title 648",
+        "publishDate": 1949,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 7456600687844,
+        "title": "Book Title 649",
+        "publishDate": 1947,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 7161981289735,
+        "title": "Book Title 650",
+        "publishDate": 1933,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 4163524417059,
+        "title": "Book Title 651",
+        "publishDate": 1903,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 2696432286478,
+        "title": "Book Title 652",
+        "publishDate": 1975,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 1957966380371,
+        "title": "Book Title 653",
+        "publishDate": 1941,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 8718758536509,
+        "title": "Book Title 654",
+        "publishDate": 2015,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 8830805105989,
+        "title": "Book Title 655",
+        "publishDate": 1954,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 7354406716203,
+        "title": "Book Title 656",
+        "publishDate": 1972,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 2666850791401,
+        "title": "Book Title 657",
+        "publishDate": 2014,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 8699598998704,
+        "title": "Book Title 658",
+        "publishDate": 2011,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 3721455612950,
+        "title": "Book Title 659",
+        "publishDate": 2001,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 9559130703894,
+        "title": "Book Title 660",
+        "publishDate": 1947,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 4194656185096,
+        "title": "Book Title 661",
+        "publishDate": 1921,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 4989362265397,
+        "title": "Book Title 662",
+        "publishDate": 1998,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 9248281130051,
+        "title": "Book Title 663",
+        "publishDate": 2009,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 5541204499290,
+        "title": "Book Title 664",
+        "publishDate": 1984,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 5179849700271,
+        "title": "Book Title 665",
+        "publishDate": 1915,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 4001210372495,
+        "title": "Book Title 666",
+        "publishDate": 1919,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 9779916789295,
+        "title": "Book Title 667",
+        "publishDate": 1960,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 5306915052588,
+        "title": "Book Title 668",
+        "publishDate": 1925,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 2230688400691,
+        "title": "Book Title 669",
+        "publishDate": 1957,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 2183106091262,
+        "title": "Book Title 670",
+        "publishDate": 1971,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 4851511562786,
+        "title": "Book Title 671",
+        "publishDate": 1973,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 5581028610074,
+        "title": "Book Title 672",
+        "publishDate": 2014,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 3978355838053,
+        "title": "Book Title 673",
+        "publishDate": 1969,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 9810284958418,
+        "title": "Book Title 674",
+        "publishDate": 2004,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 5530250270634,
+        "title": "Book Title 675",
+        "publishDate": 1970,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 1792977075374,
+        "title": "Book Title 676",
+        "publishDate": 1946,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 9686400186645,
+        "title": "Book Title 677",
+        "publishDate": 1919,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 5283209280544,
+        "title": "Book Title 678",
+        "publishDate": 1949,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 2439019234163,
+        "title": "Book Title 679",
+        "publishDate": 1914,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 9600231847130,
+        "title": "Book Title 680",
+        "publishDate": 1975,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 2847249050648,
+        "title": "Book Title 681",
+        "publishDate": 1921,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 2041054498919,
+        "title": "Book Title 682",
+        "publishDate": 2000,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 9049057726771,
+        "title": "Book Title 683",
+        "publishDate": 1965,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 8250089590163,
+        "title": "Book Title 684",
+        "publishDate": 1968,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 3147706771680,
+        "title": "Book Title 685",
+        "publishDate": 1935,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 9660644253922,
+        "title": "Book Title 686",
+        "publishDate": 1900,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 4773983689172,
+        "title": "Book Title 687",
+        "publishDate": 1933,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 5206731743834,
+        "title": "Book Title 688",
+        "publishDate": 1901,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 9020403450984,
+        "title": "Book Title 689",
+        "publishDate": 1931,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 5572041111331,
+        "title": "Book Title 690",
+        "publishDate": 1919,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 4354616458342,
+        "title": "Book Title 691",
+        "publishDate": 1963,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 3628637210349,
+        "title": "Book Title 692",
+        "publishDate": 1946,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 3582486230158,
+        "title": "Book Title 693",
+        "publishDate": 1985,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 5700450693573,
+        "title": "Book Title 694",
+        "publishDate": 1925,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 2803146439753,
+        "title": "Book Title 695",
+        "publishDate": 2003,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 9042954730943,
+        "title": "Book Title 696",
+        "publishDate": 1983,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 6712482611341,
+        "title": "Book Title 697",
+        "publishDate": 1964,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 1762807380946,
+        "title": "Book Title 698",
+        "publishDate": 1999,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 4952767748746,
+        "title": "Book Title 699",
+        "publishDate": 1910,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 4611110312039,
+        "title": "Book Title 700",
+        "publishDate": 2022,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 4370790218522,
+        "title": "Book Title 701",
+        "publishDate": 1952,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 5603105151563,
+        "title": "Book Title 702",
+        "publishDate": 2006,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 7254028658807,
+        "title": "Book Title 703",
+        "publishDate": 2008,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 1209571785958,
+        "title": "Book Title 704",
+        "publishDate": 1994,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 2409150440237,
+        "title": "Book Title 705",
+        "publishDate": 1915,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 4420602459186,
+        "title": "Book Title 706",
+        "publishDate": 2015,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 3420493500481,
+        "title": "Book Title 707",
+        "publishDate": 1945,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 6804634804669,
+        "title": "Book Title 708",
+        "publishDate": 1970,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 7001263568425,
+        "title": "Book Title 709",
+        "publishDate": 2017,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 2302496389079,
+        "title": "Book Title 710",
+        "publishDate": 1965,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 2997776285165,
+        "title": "Book Title 711",
+        "publishDate": 1951,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 8394549905057,
+        "title": "Book Title 712",
+        "publishDate": 1959,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 9465366090176,
+        "title": "Book Title 713",
+        "publishDate": 1967,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 4496726663621,
+        "title": "Book Title 714",
+        "publishDate": 1956,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 1231086852807,
+        "title": "Book Title 715",
+        "publishDate": 1935,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 8184370257097,
+        "title": "Book Title 716",
+        "publishDate": 1925,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 9463079318214,
+        "title": "Book Title 717",
+        "publishDate": 1912,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 1950026221312,
+        "title": "Book Title 718",
+        "publishDate": 1920,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 7438641486845,
+        "title": "Book Title 719",
+        "publishDate": 1913,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 2377842903340,
+        "title": "Book Title 720",
+        "publishDate": 1954,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 9669045023658,
+        "title": "Book Title 721",
+        "publishDate": 1982,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 4276123795159,
+        "title": "Book Title 722",
+        "publishDate": 1931,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 9522260918505,
+        "title": "Book Title 723",
+        "publishDate": 1996,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 9748977384039,
+        "title": "Book Title 724",
+        "publishDate": 1977,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 8638329333650,
+        "title": "Book Title 725",
+        "publishDate": 2002,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 5845339801103,
+        "title": "Book Title 726",
+        "publishDate": 1973,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 3390015372553,
+        "title": "Book Title 727",
+        "publishDate": 1955,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 9232384674323,
+        "title": "Book Title 728",
+        "publishDate": 1946,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 9879353160385,
+        "title": "Book Title 729",
+        "publishDate": 1953,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 4602889047174,
+        "title": "Book Title 730",
+        "publishDate": 1954,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 6450451276138,
+        "title": "Book Title 731",
+        "publishDate": 1909,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 9210142817933,
+        "title": "Book Title 732",
+        "publishDate": 1967,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 6431628003264,
+        "title": "Book Title 733",
+        "publishDate": 1973,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 1865892217462,
+        "title": "Book Title 734",
+        "publishDate": 1994,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 8605798035262,
+        "title": "Book Title 735",
+        "publishDate": 2021,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 8083665385073,
+        "title": "Book Title 736",
+        "publishDate": 1946,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 6545821907398,
+        "title": "Book Title 737",
+        "publishDate": 2021,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 3607843126919,
+        "title": "Book Title 738",
+        "publishDate": 1957,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 6248254730970,
+        "title": "Book Title 739",
+        "publishDate": 1964,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 7772380155918,
+        "title": "Book Title 740",
+        "publishDate": 1950,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 5842639448327,
+        "title": "Book Title 741",
+        "publishDate": 2018,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 2224183408647,
+        "title": "Book Title 742",
+        "publishDate": 1926,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 7650167951320,
+        "title": "Book Title 743",
+        "publishDate": 1957,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 5359349826303,
+        "title": "Book Title 744",
+        "publishDate": 1933,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 7066475444948,
+        "title": "Book Title 745",
+        "publishDate": 2007,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 5491444289373,
+        "title": "Book Title 746",
+        "publishDate": 2015,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 8778685631097,
+        "title": "Book Title 747",
+        "publishDate": 2017,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 4727686848345,
+        "title": "Book Title 748",
+        "publishDate": 1936,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 8920490991153,
+        "title": "Book Title 749",
+        "publishDate": 1908,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 3045037455445,
+        "title": "Book Title 750",
+        "publishDate": 1929,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 4225857895015,
+        "title": "Book Title 751",
+        "publishDate": 1985,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 3170311550216,
+        "title": "Book Title 752",
+        "publishDate": 2007,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 6583461446031,
+        "title": "Book Title 753",
+        "publishDate": 1962,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 7691571517505,
+        "title": "Book Title 754",
+        "publishDate": 1977,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 5405777627556,
+        "title": "Book Title 755",
+        "publishDate": 1959,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 8267480953847,
+        "title": "Book Title 756",
+        "publishDate": 1990,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 7405710904217,
+        "title": "Book Title 757",
+        "publishDate": 1997,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 3034021011563,
+        "title": "Book Title 758",
+        "publishDate": 1960,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 2871787168337,
+        "title": "Book Title 759",
+        "publishDate": 1942,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 8056388257406,
+        "title": "Book Title 760",
+        "publishDate": 1972,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 5101624440912,
+        "title": "Book Title 761",
+        "publishDate": 1979,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 1276647640529,
+        "title": "Book Title 762",
+        "publishDate": 1938,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 9229204022594,
+        "title": "Book Title 763",
+        "publishDate": 2022,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 4790654882314,
+        "title": "Book Title 764",
+        "publishDate": 2020,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 4801391953787,
+        "title": "Book Title 765",
+        "publishDate": 2003,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 1803349454254,
+        "title": "Book Title 766",
+        "publishDate": 1903,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 1803540982650,
+        "title": "Book Title 767",
+        "publishDate": 1911,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 4896820500704,
+        "title": "Book Title 768",
+        "publishDate": 1914,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 2510650335247,
+        "title": "Book Title 769",
+        "publishDate": 1923,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 5768145699150,
+        "title": "Book Title 770",
+        "publishDate": 1901,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 9463298930988,
+        "title": "Book Title 771",
+        "publishDate": 1961,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 1104385804219,
+        "title": "Book Title 772",
+        "publishDate": 2004,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 8517665560135,
+        "title": "Book Title 773",
+        "publishDate": 1942,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 4522913026584,
+        "title": "Book Title 774",
+        "publishDate": 1911,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 4772708917082,
+        "title": "Book Title 775",
+        "publishDate": 2006,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 1546180987458,
+        "title": "Book Title 776",
+        "publishDate": 1992,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 8773041433026,
+        "title": "Book Title 777",
+        "publishDate": 1985,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 5893991070922,
+        "title": "Book Title 778",
+        "publishDate": 2016,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 2013007319187,
+        "title": "Book Title 779",
+        "publishDate": 1902,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 5720813921789,
+        "title": "Book Title 780",
+        "publishDate": 1921,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 4298765852391,
+        "title": "Book Title 781",
+        "publishDate": 2010,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 4569970992916,
+        "title": "Book Title 782",
+        "publishDate": 2021,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 3781341477227,
+        "title": "Book Title 783",
+        "publishDate": 1933,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 7612086556819,
+        "title": "Book Title 784",
+        "publishDate": 1952,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 6112823709633,
+        "title": "Book Title 785",
+        "publishDate": 1929,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 1250275861322,
+        "title": "Book Title 786",
+        "publishDate": 1962,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 4915138202590,
+        "title": "Book Title 787",
+        "publishDate": 2006,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 9107137193824,
+        "title": "Book Title 788",
+        "publishDate": 1939,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 6839844648606,
+        "title": "Book Title 789",
+        "publishDate": 1966,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 5638486599424,
+        "title": "Book Title 790",
+        "publishDate": 1949,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 6343490273314,
+        "title": "Book Title 791",
+        "publishDate": 1992,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 1108299110338,
+        "title": "Book Title 792",
+        "publishDate": 1967,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 6272694427911,
+        "title": "Book Title 793",
+        "publishDate": 1961,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 6447254256035,
+        "title": "Book Title 794",
+        "publishDate": 1944,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 2018786234484,
+        "title": "Book Title 795",
+        "publishDate": 1947,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 5127009793042,
+        "title": "Book Title 796",
+        "publishDate": 1960,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 6786856655596,
+        "title": "Book Title 797",
+        "publishDate": 2018,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 2434432132643,
+        "title": "Book Title 798",
+        "publishDate": 1967,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 1275059102969,
+        "title": "Book Title 799",
+        "publishDate": 1979,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 2440421804944,
+        "title": "Book Title 800",
+        "publishDate": 1986,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 3737094506850,
+        "title": "Book Title 801",
+        "publishDate": 1924,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 2912480260609,
+        "title": "Book Title 802",
+        "publishDate": 1996,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 5493985939660,
+        "title": "Book Title 803",
+        "publishDate": 1982,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 6600120807663,
+        "title": "Book Title 804",
+        "publishDate": 1968,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 1571615736817,
+        "title": "Book Title 805",
+        "publishDate": 2006,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 4081447705793,
+        "title": "Book Title 806",
+        "publishDate": 1946,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 9671559581772,
+        "title": "Book Title 807",
+        "publishDate": 1988,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 5335281742255,
+        "title": "Book Title 808",
+        "publishDate": 1992,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 6522470739675,
+        "title": "Book Title 809",
+        "publishDate": 1967,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 6127668154147,
+        "title": "Book Title 810",
+        "publishDate": 1923,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 1651250570903,
+        "title": "Book Title 811",
+        "publishDate": 2012,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 1380226530316,
+        "title": "Book Title 812",
+        "publishDate": 1955,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 1947982191096,
+        "title": "Book Title 813",
+        "publishDate": 1987,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 6831611113780,
+        "title": "Book Title 814",
+        "publishDate": 1954,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 7230331198384,
+        "title": "Book Title 815",
+        "publishDate": 1916,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 1250984944436,
+        "title": "Book Title 816",
+        "publishDate": 1978,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 5183097534457,
+        "title": "Book Title 817",
+        "publishDate": 1901,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 1419507698698,
+        "title": "Book Title 818",
+        "publishDate": 1956,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 8765699380866,
+        "title": "Book Title 819",
+        "publishDate": 1979,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 3808721788315,
+        "title": "Book Title 820",
+        "publishDate": 1914,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 8177862655386,
+        "title": "Book Title 821",
+        "publishDate": 2005,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 7262495100042,
+        "title": "Book Title 822",
+        "publishDate": 1932,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 2722169079629,
+        "title": "Book Title 823",
+        "publishDate": 2014,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 7451664896823,
+        "title": "Book Title 824",
+        "publishDate": 1918,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 2235752876977,
+        "title": "Book Title 825",
+        "publishDate": 2012,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 9717486432763,
+        "title": "Book Title 826",
+        "publishDate": 1943,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 3685248299224,
+        "title": "Book Title 827",
+        "publishDate": 2011,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 3954726257533,
+        "title": "Book Title 828",
+        "publishDate": 2022,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 7991707109173,
+        "title": "Book Title 829",
+        "publishDate": 2005,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 2505577173521,
+        "title": "Book Title 830",
+        "publishDate": 1907,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 1632412030082,
+        "title": "Book Title 831",
+        "publishDate": 2008,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 4034313556382,
+        "title": "Book Title 832",
+        "publishDate": 1943,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 8126804339743,
+        "title": "Book Title 833",
+        "publishDate": 1951,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 9452972983852,
+        "title": "Book Title 834",
+        "publishDate": 2019,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 5305113004285,
+        "title": "Book Title 835",
+        "publishDate": 2000,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 3613373010692,
+        "title": "Book Title 836",
+        "publishDate": 1950,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 2157228357685,
+        "title": "Book Title 837",
+        "publishDate": 1937,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 1484448787798,
+        "title": "Book Title 838",
+        "publishDate": 1967,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 3912043485560,
+        "title": "Book Title 839",
+        "publishDate": 1982,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 7618396240980,
+        "title": "Book Title 840",
+        "publishDate": 1957,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 7239038127832,
+        "title": "Book Title 841",
+        "publishDate": 1957,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 1519066645637,
+        "title": "Book Title 842",
+        "publishDate": 2012,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 4163274847085,
+        "title": "Book Title 843",
+        "publishDate": 1976,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 5143782828244,
+        "title": "Book Title 844",
+        "publishDate": 1945,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 6649324181200,
+        "title": "Book Title 845",
+        "publishDate": 2002,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 3217093570641,
+        "title": "Book Title 846",
+        "publishDate": 1960,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 7959399348534,
+        "title": "Book Title 847",
+        "publishDate": 1935,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 1481921021635,
+        "title": "Book Title 848",
+        "publishDate": 1926,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 6347648012276,
+        "title": "Book Title 849",
+        "publishDate": 1976,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 7769071282189,
+        "title": "Book Title 850",
+        "publishDate": 1918,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 6067047988498,
+        "title": "Book Title 851",
+        "publishDate": 1964,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 7414267996029,
+        "title": "Book Title 852",
+        "publishDate": 2013,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 7482620637816,
+        "title": "Book Title 853",
+        "publishDate": 1975,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 5469195679229,
+        "title": "Book Title 854",
+        "publishDate": 1958,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 4976234808573,
+        "title": "Book Title 855",
+        "publishDate": 1942,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 1184097615200,
+        "title": "Book Title 856",
+        "publishDate": 2000,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 8867884530663,
+        "title": "Book Title 857",
+        "publishDate": 1964,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 7437347145803,
+        "title": "Book Title 858",
+        "publishDate": 1987,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 4787126071476,
+        "title": "Book Title 859",
+        "publishDate": 1956,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 7319066063596,
+        "title": "Book Title 860",
+        "publishDate": 1918,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 8393097152080,
+        "title": "Book Title 861",
+        "publishDate": 1911,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 6167316552691,
+        "title": "Book Title 862",
+        "publishDate": 1989,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 8469003912377,
+        "title": "Book Title 863",
+        "publishDate": 2020,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 3990496160269,
+        "title": "Book Title 864",
+        "publishDate": 1907,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 3207776169249,
+        "title": "Book Title 865",
+        "publishDate": 1927,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 6489185137247,
+        "title": "Book Title 866",
+        "publishDate": 2017,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 9725883719913,
+        "title": "Book Title 867",
+        "publishDate": 2003,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 7229510370884,
+        "title": "Book Title 868",
+        "publishDate": 1954,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 5531455370529,
+        "title": "Book Title 869",
+        "publishDate": 2012,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 8521908745442,
+        "title": "Book Title 870",
+        "publishDate": 1901,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 8070040794196,
+        "title": "Book Title 871",
+        "publishDate": 1993,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 5929449912825,
+        "title": "Book Title 872",
+        "publishDate": 1980,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 7875843515634,
+        "title": "Book Title 873",
+        "publishDate": 1984,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 5327138412986,
+        "title": "Book Title 874",
+        "publishDate": 1927,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 8488820556077,
+        "title": "Book Title 875",
+        "publishDate": 1974,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 4194393354858,
+        "title": "Book Title 876",
+        "publishDate": 2022,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 8267638490202,
+        "title": "Book Title 877",
+        "publishDate": 2003,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 3244794808177,
+        "title": "Book Title 878",
+        "publishDate": 1939,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 7441440080538,
+        "title": "Book Title 879",
+        "publishDate": 2014,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 7476228833373,
+        "title": "Book Title 880",
+        "publishDate": 1954,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 4383713435628,
+        "title": "Book Title 881",
+        "publishDate": 1947,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 7555659073219,
+        "title": "Book Title 882",
+        "publishDate": 1920,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 6145541098166,
+        "title": "Book Title 883",
+        "publishDate": 1972,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 8628736799891,
+        "title": "Book Title 884",
+        "publishDate": 2003,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 5308761621737,
+        "title": "Book Title 885",
+        "publishDate": 1968,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 7968891321366,
+        "title": "Book Title 886",
+        "publishDate": 1936,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 8257818512295,
+        "title": "Book Title 887",
+        "publishDate": 1968,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 2037899415043,
+        "title": "Book Title 888",
+        "publishDate": 2017,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 2558671595321,
+        "title": "Book Title 889",
+        "publishDate": 1951,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 4486996930994,
+        "title": "Book Title 890",
+        "publishDate": 1956,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 6326880870319,
+        "title": "Book Title 891",
+        "publishDate": 1942,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 8987466167530,
+        "title": "Book Title 892",
+        "publishDate": 1938,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 3912640587166,
+        "title": "Book Title 893",
+        "publishDate": 1982,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 6738220525879,
+        "title": "Book Title 894",
+        "publishDate": 1918,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 6577207761338,
+        "title": "Book Title 895",
+        "publishDate": 2013,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 1684201613098,
+        "title": "Book Title 896",
+        "publishDate": 1903,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 3437329324203,
+        "title": "Book Title 897",
+        "publishDate": 1945,
+        "author": {
+            "authorId": 23
+        }
+    },
+    {
+        "isbn": 4860976045160,
+        "title": "Book Title 898",
+        "publishDate": 1928,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 2019703820234,
+        "title": "Book Title 899",
+        "publishDate": 2020,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 8847852776875,
+        "title": "Book Title 900",
+        "publishDate": 1911,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 6739012510435,
+        "title": "Book Title 901",
+        "publishDate": 1964,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 2164741842238,
+        "title": "Book Title 902",
+        "publishDate": 1980,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 5510732738898,
+        "title": "Book Title 903",
+        "publishDate": 1902,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 8975628700131,
+        "title": "Book Title 904",
+        "publishDate": 1989,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 6329379436587,
+        "title": "Book Title 905",
+        "publishDate": 1950,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 8119318118858,
+        "title": "Book Title 906",
+        "publishDate": 1924,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 5446135375248,
+        "title": "Book Title 907",
+        "publishDate": 1943,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 2992270735663,
+        "title": "Book Title 908",
+        "publishDate": 1996,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 6970770836281,
+        "title": "Book Title 909",
+        "publishDate": 1911,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 5458013940644,
+        "title": "Book Title 910",
+        "publishDate": 2011,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 5832030914314,
+        "title": "Book Title 911",
+        "publishDate": 1913,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 8963627109388,
+        "title": "Book Title 912",
+        "publishDate": 2006,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 2983279760097,
+        "title": "Book Title 913",
+        "publishDate": 1993,
+        "author": {
+            "authorId": 18
+        }
+    },
+    {
+        "isbn": 2842893207153,
+        "title": "Book Title 914",
+        "publishDate": 1922,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 2915309443058,
+        "title": "Book Title 915",
+        "publishDate": 1929,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 7312116400059,
+        "title": "Book Title 916",
+        "publishDate": 2001,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 5030550457049,
+        "title": "Book Title 917",
+        "publishDate": 1929,
+        "author": {
+            "authorId": 30
+        }
+    },
+    {
+        "isbn": 6120645278570,
+        "title": "Book Title 918",
+        "publishDate": 1920,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 3937747719098,
+        "title": "Book Title 919",
+        "publishDate": 1950,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 7779057783125,
+        "title": "Book Title 920",
+        "publishDate": 2009,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 1342665936596,
+        "title": "Book Title 921",
+        "publishDate": 1913,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 5591804929313,
+        "title": "Book Title 922",
+        "publishDate": 1982,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 1703617069204,
+        "title": "Book Title 923",
+        "publishDate": 2023,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 7161974243502,
+        "title": "Book Title 924",
+        "publishDate": 1992,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 6762661947424,
+        "title": "Book Title 925",
+        "publishDate": 1995,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 7200433338427,
+        "title": "Book Title 926",
+        "publishDate": 1988,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 2738511568691,
+        "title": "Book Title 927",
+        "publishDate": 1918,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 6041922868475,
+        "title": "Book Title 928",
+        "publishDate": 1964,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 6423079920343,
+        "title": "Book Title 929",
+        "publishDate": 1907,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 2686257449997,
+        "title": "Book Title 930",
+        "publishDate": 1904,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 8815403464188,
+        "title": "Book Title 931",
+        "publishDate": 1941,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 8854545963743,
+        "title": "Book Title 932",
+        "publishDate": 1925,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 3032427918022,
+        "title": "Book Title 933",
+        "publishDate": 1901,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 4086149421647,
+        "title": "Book Title 934",
+        "publishDate": 1952,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 7818445509760,
+        "title": "Book Title 935",
+        "publishDate": 1980,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 1032923445144,
+        "title": "Book Title 936",
+        "publishDate": 1997,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 8513211284348,
+        "title": "Book Title 937",
+        "publishDate": 1985,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 7754682190825,
+        "title": "Book Title 938",
+        "publishDate": 1957,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 1171189112628,
+        "title": "Book Title 939",
+        "publishDate": 2000,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 1139290999763,
+        "title": "Book Title 940",
+        "publishDate": 2006,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 2662455406476,
+        "title": "Book Title 941",
+        "publishDate": 1931,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 5998008620443,
+        "title": "Book Title 942",
+        "publishDate": 1957,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 1471068053560,
+        "title": "Book Title 943",
+        "publishDate": 2013,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 4794147975007,
+        "title": "Book Title 944",
+        "publishDate": 1969,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 8470543558737,
+        "title": "Book Title 945",
+        "publishDate": 1942,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 3448304372567,
+        "title": "Book Title 946",
+        "publishDate": 1957,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 4530000853978,
+        "title": "Book Title 947",
+        "publishDate": 1920,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 2569418287210,
+        "title": "Book Title 948",
+        "publishDate": 1966,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 1668852077151,
+        "title": "Book Title 949",
+        "publishDate": 1958,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 3403208902152,
+        "title": "Book Title 950",
+        "publishDate": 1978,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 6584984742011,
+        "title": "Book Title 951",
+        "publishDate": 1907,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 1424622267253,
+        "title": "Book Title 952",
+        "publishDate": 1909,
+        "author": {
+            "authorId": 8
+        }
+    },
+    {
+        "isbn": 4278012716502,
+        "title": "Book Title 953",
+        "publishDate": 1905,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 3874533324417,
+        "title": "Book Title 954",
+        "publishDate": 2016,
+        "author": {
+            "authorId": 19
+        }
+    },
+    {
+        "isbn": 1567068492347,
+        "title": "Book Title 955",
+        "publishDate": 1998,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 1059442320574,
+        "title": "Book Title 956",
+        "publishDate": 1999,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 7900343213370,
+        "title": "Book Title 957",
+        "publishDate": 1960,
+        "author": {
+            "authorId": 29
+        }
+    },
+    {
+        "isbn": 7481267277811,
+        "title": "Book Title 958",
+        "publishDate": 1981,
+        "author": {
+            "authorId": 17
+        }
+    },
+    {
+        "isbn": 9902235152089,
+        "title": "Book Title 959",
+        "publishDate": 2010,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 9221937927680,
+        "title": "Book Title 960",
+        "publishDate": 2016,
+        "author": {
+            "authorId": 15
+        }
+    },
+    {
+        "isbn": 5343256436887,
+        "title": "Book Title 961",
+        "publishDate": 1946,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 3071878152483,
+        "title": "Book Title 962",
+        "publishDate": 1974,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 7150320831118,
+        "title": "Book Title 963",
+        "publishDate": 1998,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 9095485842554,
+        "title": "Book Title 964",
+        "publishDate": 1956,
+        "author": {
+            "authorId": 2
+        }
+    },
+    {
+        "isbn": 7927356304021,
+        "title": "Book Title 965",
+        "publishDate": 2023,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 6065380331416,
+        "title": "Book Title 966",
+        "publishDate": 1991,
+        "author": {
+            "authorId": 11
+        }
+    },
+    {
+        "isbn": 5217691884004,
+        "title": "Book Title 967",
+        "publishDate": 1954,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 2018636325431,
+        "title": "Book Title 968",
+        "publishDate": 1959,
+        "author": {
+            "authorId": 3
+        }
+    },
+    {
+        "isbn": 6586408993807,
+        "title": "Book Title 969",
+        "publishDate": 2009,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 3121401453873,
+        "title": "Book Title 970",
+        "publishDate": 1934,
+        "author": {
+            "authorId": 28
+        }
+    },
+    {
+        "isbn": 6042961268442,
+        "title": "Book Title 971",
+        "publishDate": 1973,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 9583092013099,
+        "title": "Book Title 972",
+        "publishDate": 1918,
+        "author": {
+            "authorId": 10
+        }
+    },
+    {
+        "isbn": 5322427197177,
+        "title": "Book Title 973",
+        "publishDate": 2023,
+        "author": {
+            "authorId": 25
+        }
+    },
+    {
+        "isbn": 4367317765419,
+        "title": "Book Title 974",
+        "publishDate": 1920,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 2138586679934,
+        "title": "Book Title 975",
+        "publishDate": 1961,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 5339210428095,
+        "title": "Book Title 976",
+        "publishDate": 1993,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 5158330604474,
+        "title": "Book Title 977",
+        "publishDate": 1909,
+        "author": {
+            "authorId": 12
+        }
+    },
+    {
+        "isbn": 8394807494820,
+        "title": "Book Title 978",
+        "publishDate": 1981,
+        "author": {
+            "authorId": 6
+        }
+    },
+    {
+        "isbn": 3202512783284,
+        "title": "Book Title 979",
+        "publishDate": 2017,
+        "author": {
+            "authorId": 22
+        }
+    },
+    {
+        "isbn": 4507846112953,
+        "title": "Book Title 980",
+        "publishDate": 1932,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 4697223969722,
+        "title": "Book Title 981",
+        "publishDate": 1977,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 1322035151273,
+        "title": "Book Title 982",
+        "publishDate": 1942,
+        "author": {
+            "authorId": 1
+        }
+    },
+    {
+        "isbn": 9289238351461,
+        "title": "Book Title 983",
+        "publishDate": 1955,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 4527634907746,
+        "title": "Book Title 984",
+        "publishDate": 1974,
+        "author": {
+            "authorId": 20
+        }
+    },
+    {
+        "isbn": 5114028837144,
+        "title": "Book Title 985",
+        "publishDate": 2010,
+        "author": {
+            "authorId": 21
+        }
+    },
+    {
+        "isbn": 4426874812557,
+        "title": "Book Title 986",
+        "publishDate": 1912,
+        "author": {
+            "authorId": 27
+        }
+    },
+    {
+        "isbn": 3721435751434,
+        "title": "Book Title 987",
+        "publishDate": 1921,
+        "author": {
+            "authorId": 4
+        }
+    },
+    {
+        "isbn": 8760062031828,
+        "title": "Book Title 988",
+        "publishDate": 1966,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 9150102074282,
+        "title": "Book Title 989",
+        "publishDate": 2010,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 1113798130388,
+        "title": "Book Title 990",
+        "publishDate": 1975,
+        "author": {
+            "authorId": 14
+        }
+    },
+    {
+        "isbn": 6523978622105,
+        "title": "Book Title 991",
+        "publishDate": 1904,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 1422645619378,
+        "title": "Book Title 992",
+        "publishDate": 1962,
+        "author": {
+            "authorId": 9
+        }
+    },
+    {
+        "isbn": 8686486937782,
+        "title": "Book Title 993",
+        "publishDate": 1906,
+        "author": {
+            "authorId": 13
+        }
+    },
+    {
+        "isbn": 5651105919505,
+        "title": "Book Title 994",
+        "publishDate": 2016,
+        "author": {
+            "authorId": 7
+        }
+    },
+    {
+        "isbn": 1273254123240,
+        "title": "Book Title 995",
+        "publishDate": 1999,
+        "author": {
+            "authorId": 24
+        }
+    },
+    {
+        "isbn": 4493761641119,
+        "title": "Book Title 996",
+        "publishDate": 1994,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 6176466143105,
+        "title": "Book Title 997",
+        "publishDate": 1953,
+        "author": {
+            "authorId": 5
+        }
+    },
+    {
+        "isbn": 8912298093532,
+        "title": "Book Title 998",
+        "publishDate": 1934,
+        "author": {
+            "authorId": 16
+        }
+    },
+    {
+        "isbn": 4393683315429,
+        "title": "Book Title 999",
+        "publishDate": 2003,
+        "author": {
+            "authorId": 26
+        }
+    },
+    {
+        "isbn": 4782913592008,
+        "title": "Book Title 1000",
+        "publishDate": 1962,
+        "author": {
+            "authorId": 2
+        }
+    }
+]
