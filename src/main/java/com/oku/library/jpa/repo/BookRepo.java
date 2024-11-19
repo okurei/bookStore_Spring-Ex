@@ -11,6 +11,7 @@ import java.util.Optional;
 @Repository
 public interface BookRepo extends JpaRepository<Book, Long> {
 
+    // TODO implement this query with the DTO     @Query("select b.isbn, b.title, b.publishDate from Book b where b.isbn = :isbn")
     @Query("select b from Book b where b.isbn = :isbn")
     Optional<Book> findByIsbn(@Param("isbn") Long isbn);
 }
