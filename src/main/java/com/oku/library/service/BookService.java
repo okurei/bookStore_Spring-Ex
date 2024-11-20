@@ -30,4 +30,17 @@ public class BookService {
         Optional<Book> book = bookRepo.findByIsbn(isbn);
         return new ResponseEntity<>(book, HttpStatus.FOUND);
     }
+
+    public ResponseEntity<BookDto> findByTitle(String title) {
+        Optional<Book> optionalBook = bookRepo.findByTitle(title);
+        Book book = optionalBook.orElseThrow(()-> new RuntimeException("Book not found"));
+        BookDto bookDto = new BookDto(book);
+        return ResponseEntity.ok(bookDto);
+    }
+
+    public ResponseEntity<List<BookDto>> findAllFromAuthor(String authorName) {
+        List<Book>bookList = bookRepo.findAllBookOfAuthor(authorName);
+        List<BookDto> bookDtos = bookList.stream().map(BookDto::bookToDto).toList();
+        return new ResponseEntity<>(bookDtos, HttpStatus.FOUND);
+    }
 }

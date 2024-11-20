@@ -40,6 +40,7 @@ public class Book {
         return Objects.equals(bookId, book.bookId);
     }
 
+
     @Override
     public int hashCode() {
         return Objects.hashCode(bookId);

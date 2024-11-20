@@ -16,7 +16,7 @@ public class AuthorService {
 
     public ResponseEntity<List<Author>> addAuthors(List<Author> authorList) {
         authorRepo.saveAll(authorList);
-        return new ResponseEntity<>(HttpStatus.CREATED);
+        return new ResponseEntity<>(authorList, HttpStatus.CREATED);
     }
 
     public ResponseEntity<Author> addAuthor(Author author) {

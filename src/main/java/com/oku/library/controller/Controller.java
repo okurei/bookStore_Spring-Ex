@@ -1,13 +1,13 @@
 package com.oku.library.controller;
 
 
+import com.oku.library.controller.dto.BookDto;
 import com.oku.library.jpa.entity.Author;
 import com.oku.library.jpa.entity.Book;
 import com.oku.library.service.AuthorService;
 import com.oku.library.service.BookService;
 //import com.oku.library.service.InventoryService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.repository.Repository;
 import org.springframework.data.repository.query.Param;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.http.ResponseEntity;
@@ -47,5 +47,15 @@ public class Controller {
     @GetMapping(path = "/findBookByIsbn/{isbn}")
     public ResponseEntity<Optional<Book>>findBookByIsbn(@PathVariable("isbn") Long isbn){
         return bookService.findByIsbn(isbn);
+    }
+
+    @GetMapping("/findBookByTitle/{title}")
+    public ResponseEntity<BookDto> findBookByTitle(@PathVariable("title") String title){
+        return bookService.findByTitle(title);
+    }
+
+    @GetMapping("/findAllBookOfAuthor/{authorName}")
+    public ResponseEntity<List<BookDto>>findAllBookOfAuthor(@PathVariable("authorName")String authorName ){
+        return bookService.findAllFromAuthor(authorName);
     }
 }
