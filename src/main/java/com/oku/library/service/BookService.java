@@ -43,4 +43,8 @@ public class BookService {
         List<BookDto> bookDtos = bookList.stream().map(BookDto::bookToDto).toList();
         return new ResponseEntity<>(bookDtos, HttpStatus.FOUND);
     }
+
+    public Book getBookByIsbn(Long isbn) {
+        return bookRepo.getBookByIsbn(isbn);
+    }
 }

@@ -21,4 +21,6 @@ public interface BookRepo extends JpaRepository<Book, Long> {
     @Query("select b from Book b where b.author.authorSurname = :authorName")
     List<Book> findAllBookOfAuthor(@Param("authorName") String authorName);
 
+    @Query("select b from Book b where b.isbn = :isbn")
+    Book getBookByIsbn(Long isbn);
 }
