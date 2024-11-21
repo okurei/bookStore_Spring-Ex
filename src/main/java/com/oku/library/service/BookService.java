@@ -47,4 +47,10 @@ public class BookService {
     public Book getBookByIsbn(Long isbn) {
         return bookRepo.getBookByIsbn(isbn);
     }
+
+    public BookDto findBookByTitle (String title) {
+        Optional<Book> optionalBook = bookRepo.findByTitle(title);
+        Book book = optionalBook.orElseThrow(()-> new RuntimeException("Book not found"));
+        return new BookDto(book);
+    }
 }

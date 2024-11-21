@@ -1,12 +1,14 @@
 package com.oku.library.controller;
 
 
+import com.oku.library.controller.dto.BookAuthorInventoryDto;
 import com.oku.library.controller.dto.BookDto;
 import com.oku.library.controller.dto.InventoryDto;
 import com.oku.library.jpa.entity.Author;
 import com.oku.library.jpa.entity.Book;
 import com.oku.library.jpa.entity.Inventory;
 import com.oku.library.service.AuthorService;
+import com.oku.library.service.BookAuthorInventoryService;
 import com.oku.library.service.BookService;
 import com.oku.library.service.InventoryService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -24,6 +26,7 @@ public class Controller {
     @Autowired private BookService bookService;
     @Autowired private AuthorService authorService;
     @Autowired private InventoryService inventoryService;
+    @Autowired private BookAuthorInventoryService bookAuthorInventoryService;
 
 
     @GetMapping(path = "getBookById")
@@ -37,7 +40,7 @@ public class Controller {
     }
 
     @PostMapping(path = "/addAuthors")
-    public ResponseEntity<List<Author>> addAuthor(@RequestBody List<Author> authorList){
+    public ResponseEntity<List<Author>> addAuthors(@RequestBody List<Author> authorList){
         return authorService.addAuthors(authorList);
     }
 
@@ -69,5 +72,11 @@ public class Controller {
     @GetMapping("/removeBookFromInventory/{isbn}")
     public ResponseEntity<Optional<Inventory>>removeBookFromInventory(@PathVariable("isbn")Long isbn){
         return inventoryService.removeBookFromInventory(isbn);
+    }
+
+
+    @GetMapping("getBookAuthorInventory/{title}")
+    public ResponseEntity<BookAuthorInventoryDto>getBookAuthorInventory(@PathVariable("title")String title){
+        return bookAuthorInventoryService.getBookAuthorInventory(title);
     }
 }

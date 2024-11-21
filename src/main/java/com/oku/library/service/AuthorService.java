@@ -8,6 +8,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.Optional;
 
 @Service
 @AllArgsConstructor
@@ -22,5 +23,10 @@ public class AuthorService {
     public ResponseEntity<Author> addAuthor(Author author) {
         authorRepo.save(author);
         return new ResponseEntity<>(author, HttpStatus.CREATED);
+    }
+
+    public Author findById(Long authorId) {
+        Optional<Author> authorOptional = authorRepo.findById(authorId);
+        return authorOptional.orElseThrow(()-> new RuntimeException("Author not present"));
     }
 }

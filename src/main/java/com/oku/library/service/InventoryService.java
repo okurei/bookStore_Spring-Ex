@@ -1,5 +1,6 @@
 package com.oku.library.service;
 
+import com.oku.library.controller.dto.BookAuthorInventoryDto;
 import com.oku.library.controller.dto.InventoryDto;
 import com.oku.library.jpa.entity.Inventory;
 import com.oku.library.jpa.repo.InventoryRepo;
@@ -8,6 +9,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
+import javax.swing.text.html.Option;
 import java.util.Optional;
 
 @Service
@@ -42,5 +44,10 @@ public class InventoryService {
             inventoryRepo.save(inventoryOptional.get());
             return new ResponseEntity<>(inventoryOptional, HttpStatus.ACCEPTED);
         }
+    }
+
+    public Inventory findBookInInventory(Long isbn) {
+        Optional<Inventory> inventoryOptional = inventoryRepo.findByIsbn(isbn);
+        return inventoryOptional.orElseThrow(()-> new RuntimeException("Not present"));
     }
 }
