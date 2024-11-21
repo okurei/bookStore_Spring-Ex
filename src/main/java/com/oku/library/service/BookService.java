@@ -1,9 +1,12 @@
 package com.oku.library.service;
 
 import com.oku.library.controller.dto.BookDto;
+import com.oku.library.controller.dto.IsbnOnly;
 import com.oku.library.jpa.entity.Book;
 import com.oku.library.jpa.repo.BookRepo;
 import lombok.AllArgsConstructor;
+import org.springframework.data.domain.Example;
+import org.springframework.data.domain.ExampleMatcher;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
@@ -52,5 +55,10 @@ public class BookService {
         Optional<Book> optionalBook = bookRepo.findByTitle(title);
         Book book = optionalBook.orElseThrow(()-> new RuntimeException("Book not found"));
         return new BookDto(book);
+    }
+
+    public List<Long> getAllIsbn() {
+        List<IsbnOnly> isbn = bookRepo.findAllBy();
+        return isbn.stream().map(IsbnOnly::getIsbn).toList();
     }
 }
