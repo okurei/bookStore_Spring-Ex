@@ -10,6 +10,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import javax.swing.text.html.Option;
+import java.util.List;
 import java.util.Optional;
 
 @Service
@@ -50,4 +51,11 @@ public class InventoryService {
         Optional<Inventory> inventoryOptional = inventoryRepo.findByIsbn(isbn);
         return inventoryOptional.orElseThrow(()-> new RuntimeException("Not present"));
     }
+
+//TODO implement the method to populate the class
+//TODO: dal repo di Book mi prendo gli isbn e li passo come parametri al custom constructor del invDTO
+// c'è da vedere come generare dei random per i prezzi... no vabbe li generi dentro il constractor stesso e gg wp
+//    public ResponseEntity<List<Inventory>> populateInventory() {
+//
+//    }
 }

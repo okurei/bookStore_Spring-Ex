@@ -79,4 +79,14 @@ public class Controller {
     public ResponseEntity<BookAuthorInventoryDto>getBookAuthorInventory(@PathVariable("title")String title){
         return bookAuthorInventoryService.getBookAuthorInventory(title);
     }
+
+    @GetMapping("getAllIsbn")
+    public List<Long>getAllIsbn(){
+        return bookService.getAllIsbn();
+    }
+    // TODO implement this method to populate the list
+//    @GetMapping("populateInventory")
+//    public ResponseEntity<List<Inventory>> populateInventory(){
+//        return inventoryService.populateInventory();
+//    }
 }
