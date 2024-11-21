@@ -1,9 +1,12 @@
 package com.oku.library.jpa.repo;
 
+import com.oku.library.controller.dto.BookDto;
+import com.oku.library.controller.dto.IsbnOnly;
 import com.oku.library.jpa.entity.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
@@ -23,4 +26,6 @@ public interface BookRepo extends JpaRepository<Book, Long> {
 
     @Query("select b from Book b where b.isbn = :isbn")
     Book getBookByIsbn(Long isbn);
+
+    List<IsbnOnly> findAllBy();
 }

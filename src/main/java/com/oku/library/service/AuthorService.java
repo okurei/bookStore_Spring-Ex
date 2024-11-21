@@ -29,4 +29,8 @@ public class AuthorService {
         Optional<Author> authorOptional = authorRepo.findById(authorId);
         return authorOptional.orElseThrow(()-> new RuntimeException("Author not present"));
     }
+
+    public int findAuthorId(Long authorId) {
+        return authorRepo.findByIdCount(authorId);
+    }
 }
