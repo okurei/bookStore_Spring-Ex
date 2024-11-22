@@ -9,6 +9,8 @@ import lombok.NoArgsConstructor;
 import org.springframework.validation.annotation.Validated;
 
 import java.math.BigDecimal;
+import java.math.RoundingMode;
+import java.util.Random;
 
 @Data
 @AllArgsConstructor
@@ -21,4 +23,17 @@ public class InventoryDto {
     private BigDecimal price;
     @NotNull
     private Long isbn;
+
+    Random random = new Random();
+
+    public InventoryDto(Long isbnForeign){
+        this.price = randomPrice();
+        this.isbn = isbnForeign;
+    }
+
+    private BigDecimal randomPrice(){
+        double rValue = random.nextDouble();
+        double rScale = 10 + (rValue * 20);
+        return BigDecimal.valueOf(rScale).setScale(2, RoundingMode.HALF_UP);
+    }
 }

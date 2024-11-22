@@ -33,8 +33,9 @@ public class Inventory {
         this.price = inventoryDto.getPrice();
         this.stock = 1L;
         this.isbn = inventoryDto.getIsbn();
-
     }
+
+
     public void addStock(){this.stock++;}
     public void removeStock(){this.stock--;}
 
