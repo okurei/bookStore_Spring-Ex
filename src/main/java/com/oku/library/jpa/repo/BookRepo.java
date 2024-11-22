@@ -28,5 +28,4 @@ public interface BookRepo extends JpaRepository<Book, Long> {
     Book getBookByIsbn(Long isbn);
 
     List<IsbnOnly> findAllBy();
-
 }
