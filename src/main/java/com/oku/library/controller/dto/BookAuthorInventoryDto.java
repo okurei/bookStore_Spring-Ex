@@ -2,7 +2,6 @@ package com.oku.library.controller.dto;
 
 
 import com.oku.library.jpa.entity.Author;
-import com.oku.library.jpa.entity.Book;
 import com.oku.library.jpa.entity.Inventory;
 import jakarta.validation.constraints.DecimalMin;
 import jakarta.validation.constraints.Digits;

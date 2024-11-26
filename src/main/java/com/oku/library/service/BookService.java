@@ -2,80 +2,63 @@ package com.oku.library.service;
 
 import com.oku.library.controller.dto.BookDto;
 import com.oku.library.controller.dto.IsbnOnly;
+import com.oku.library.exception.FKConstrainViolation;
 import com.oku.library.jpa.entity.Book;
 import com.oku.library.jpa.repo.BookRepo;
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-import java.util.Optional;
+import java.util.Map;
+import java.util.stream.Collectors;
 
 @Service
 @AllArgsConstructor
 public class BookService {
 
     private final BookRepo bookRepo;
-    @Autowired AuthorService authorService;
+    @Autowired private AuthorService authorService;
 
-    public Optional<Book> getBookById(Long bookId) {
-        return bookRepo.findById(bookId);
-    }
 
     public ResponseEntity<List<Book>> addBooks(List<Book> bookList) {
+        Map<Boolean, List<Book>> listMap = bookList.stream().collect(Collectors.partitioningBy(this::checkBooks));
 
-        List<Book>bookLis = bookList.stream().map(this::checkBook).toList();
-        List<Book> savedBook = bookRepo.saveAll(bookLis);
-        return new ResponseEntity<>(savedBook, HttpStatus.CREATED);
-    }
-
-    private Book checkBook(Book book){
-        BookDto bookDto = new BookDto(book);
-        Optional<Book> bookOptional = bookRepo.findByIsbn(bookDto.getIsbn());
-        if(bookOptional.isEmpty()){
-            if (authorService.findAuthorId(bookDto.getAuthorId()) < 1){
-                throw new RuntimeException("Author not found");
-            }else return book;
+        List<Book> filteredBookList = listMap.get(true);
+        List<Book> discardBookList = listMap.get(false);
+        if(!discardBookList.isEmpty()){
+            throw new FKConstrainViolation("Author not present in the db for the following: " + discardBookList);
         }
-        throw new RuntimeException("Book already present");
+        bookRepo.saveAll(filteredBookList);
+        return ResponseEntity.ok(bookList);
     }
 
-    public ResponseEntity<Optional<Book>> findByIsbn(Long isbn) {
-        Optional<Book> book = bookRepo.findByIsbn(isbn);
-        if (book.isEmpty()){
-            return new ResponseEntity<>(HttpStatus.BAD_REQUEST);
-        }else {
-            return new ResponseEntity<>(book, HttpStatus.FOUND);
-        }
+    private Boolean checkBooks(Book book){
+        if(bookRepo.findByIsbn(book.getIsbn()).isEmpty()){
+            return authorService.findIfPresent(book.getAuthor());
+        } return false;
     }
 
-    public ResponseEntity<BookDto> findByTitle(String title) {
-        Optional<Book> optionalBook = bookRepo.findByTitle(title);
-        Book book = optionalBook.orElseThrow(()-> new RuntimeException("Book not found"));
-        BookDto bookDto = new BookDto(book);
-        return ResponseEntity.ok(bookDto);
+    public BookDto getBookById(Long bookId) {
+        return new BookDto (bookRepo.findById(bookId).orElseThrow());
     }
 
-    public ResponseEntity<List<BookDto>> findAllFromAuthor(String authorName) {
-        List<Book>bookList = bookRepo.findAllBookOfAuthor(authorName);
-        List<BookDto> bookDtoS = bookList.stream().map(BookDto::bookToDto).toList();
-        return new ResponseEntity<>(bookDtoS, HttpStatus.FOUND);
+    public BookDto findByIsbn(Long isbn) {
+        return new BookDto(bookRepo.findByIsbn(isbn).orElseThrow());
     }
 
-    public Book getBookByIsbn(Long isbn) {
-        return bookRepo.getBookByIsbn(isbn);
+    public BookDto findByTitle(String title) {
+        return new BookDto(bookRepo.findByTitle(title).orElseThrow());
     }
 
-    public BookDto findBookByTitle (String title) {
-        Optional<Book> optionalBook = bookRepo.findByTitle(title);
-        Book book = optionalBook.orElseThrow(()-> new RuntimeException("Book not found"));
-        return new BookDto(book);
+    public List<BookDto> findAllFromAuthor(String authorName) {
+        return bookRepo.findAllBookOfAuthor(authorName).stream().map(BookDto::bookToDto).toList();
     }
 
     public List<Long> getAllIsbn() {
         List<IsbnOnly> isbn = bookRepo.findAllBy();
         return isbn.stream().map(IsbnOnly::getIsbn).toList();
     }
+
 }

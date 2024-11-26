@@ -1,13 +1,10 @@
 package com.oku.library.jpa.entity;
 
-import com.oku.library.controller.dto.BookDto;
-import com.oku.library.service.AuthorService;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import org.springframework.beans.factory.annotation.Autowired;
 
 import java.time.Year;
 import java.util.Objects;
@@ -34,12 +31,6 @@ public class Book {
     @JoinColumn(name = "authorId")
     private Author author;
 
-
-    public Book(BookDto bookDto){
-        this.isbn = bookDto.getIsbn();
-        this.title = bookDto.getTitle();
-        this.publishDate = bookDto.getPublishDate();
-    }
 
     @Override
     public boolean equals(Object o) {

@@ -18,7 +18,7 @@ public class BookAuthorInventoryService {
     @Autowired AuthorService authorService;
 
     public ResponseEntity<BookAuthorInventoryDto> getBookAuthorInventory(String title) {
-        BookDto bookDto = bookService.findBookByTitle(title);
+        BookDto bookDto = bookService.findByTitle(title);
         Inventory inventory = inventoryService.findBookInInventory(bookDto.getIsbn());
         Author author = authorService.findById(bookDto.getAuthorId());
         return ResponseEntity.ok(new BookAuthorInventoryDto(bookDto,author,inventory));

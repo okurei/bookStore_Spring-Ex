@@ -29,8 +29,8 @@ public class Controller {
     @Autowired private BookAuthorInventoryService bookAuthorInventoryService;
 
 
-    @GetMapping(path = "getBookById")
-    public Optional<Book> getBookById(@Param("getBookById") Long bookId){
+    @GetMapping(path = "/getBookById/{id}")
+    public BookDto getBookById(@Param("id") Long bookId){
         return bookService.getBookById(bookId);
     }
 
@@ -50,17 +50,17 @@ public class Controller {
     }
 
     @GetMapping(path = "/findBookByIsbn/{isbn}")
-    public ResponseEntity<Optional<Book>>findBookByIsbn(@PathVariable("isbn") Long isbn){
+    public BookDto findBookByIsbn(@PathVariable("isbn") Long isbn){
         return bookService.findByIsbn(isbn);
     }
 
     @GetMapping("/findBookByTitle/{title}")
-    public ResponseEntity<BookDto> findBookByTitle(@PathVariable("title") String title){
+    public BookDto findBookByTitle(@PathVariable("title") String title){
         return bookService.findByTitle(title);
     }
 
     @GetMapping("/findAllBookOfAuthor/{authorName}")
-    public ResponseEntity<List<BookDto>>findAllBookOfAuthor(@PathVariable("authorName")String authorName ){
+    public List<BookDto>findAllBookOfAuthor(@PathVariable("authorName")String authorName ){
         return bookService.findAllFromAuthor(authorName);
     }
 
