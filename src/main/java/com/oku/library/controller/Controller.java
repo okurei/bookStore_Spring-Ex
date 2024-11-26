@@ -41,7 +41,7 @@ public class Controller {
     }
 
     @PostMapping(path = "/addBooks")
-    public ResponseEntity <List<Book>> addBooks(@RequestBody List<Book> bookList){
+    public ResponseEntity <List<BookDto>> addBooks(@RequestBody List<Book> bookList){
         return bookService.addBooks(bookList);
     }
 

@@ -22,16 +22,17 @@ public class BookService {
     @Autowired private AuthorService authorService;
 
 
-    public ResponseEntity<List<Book>> addBooks(List<Book> bookList) {
+    public ResponseEntity<List<BookDto>> addBooks(List<Book> bookList) {
         Map<Boolean, List<Book>> listMap = bookList.stream().collect(Collectors.partitioningBy(this::checkBooks));
-
-        List<Book> filteredBookList = listMap.get(true);
         List<Book> discardBookList = listMap.get(false);
         if(!discardBookList.isEmpty()){
             throw new FKConstrainViolation("Author not present in the db for the following: " + discardBookList);
         }
+
+        List<Book> filteredBookList = listMap.get(true);
         bookRepo.saveAll(filteredBookList);
-        return ResponseEntity.ok(bookList);
+        List<BookDto> bookDtoList = filteredBookList.stream().map(BookDto::bookToDto).toList();
+        return ResponseEntity.ok(bookDtoList);
     }
 
     private Boolean checkBooks(Book book){
