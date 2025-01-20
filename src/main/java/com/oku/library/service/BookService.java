@@ -67,5 +67,4 @@ public class BookService {
         List<IsbnOnly> isbn = bookRepo.findAllBy();
         return isbn.stream().map(IsbnOnly::getIsbn).toList();
     }
-
 }
