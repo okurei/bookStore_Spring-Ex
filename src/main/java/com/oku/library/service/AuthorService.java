@@ -3,6 +3,7 @@ package com.oku.library.service;
 import com.oku.library.jpa.entity.Author;
 import com.oku.library.jpa.repo.AuthorRepo;
 import lombok.AllArgsConstructor;
+import org.springframework.data.domain.Example;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
@@ -28,5 +29,9 @@ public class AuthorService {
     public Author findById(Long authorId) {
         Optional<Author> authorOptional = authorRepo.findById(authorId);
         return authorOptional.orElseThrow(()-> new RuntimeException("Author not present"));
+    }
+
+    public Boolean findIfPresent(Author author){
+        return authorRepo.exists(Example.of(author));
     }
 }

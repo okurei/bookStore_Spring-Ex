@@ -13,6 +13,7 @@ import com.oku.library.service.BookService;
 import com.oku.library.service.InventoryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.repository.query.Param;
+import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.http.ResponseEntity;
 
@@ -29,14 +30,9 @@ public class Controller {
     @Autowired private BookAuthorInventoryService bookAuthorInventoryService;
 
 
-    @GetMapping(path = "getBookById")
-    public Optional<Book> getBookById(@Param("getBookById") Long bookId){
-        return bookService.getBookById(bookId);
-    }
-
-    @PostMapping(path = "/addAuthor")
-    public ResponseEntity<Author>addAuthor(@RequestBody Author author){
-        return authorService.addAuthor(author);
+    @GetMapping(path = "/getBookById/{id}")
+    public ResponseEntity<BookDto> getBookById(@Param("id") Long bookId){
+        return new ResponseEntity<>(bookService.getBookById(bookId), HttpStatus.FOUND);
     }
 
     @PostMapping(path = "/addAuthors")
@@ -45,23 +41,23 @@ public class Controller {
     }
 
     @PostMapping(path = "/addBooks")
-    public ResponseEntity <List<Book>> addBooks(@RequestBody List<Book> bookList){
+    public ResponseEntity <List<BookDto>> addBooks(@RequestBody List<Book> bookList){
         return bookService.addBooks(bookList);
     }
 
     @GetMapping(path = "/findBookByIsbn/{isbn}")
-    public ResponseEntity<Optional<Book>>findBookByIsbn(@PathVariable("isbn") Long isbn){
-        return bookService.findByIsbn(isbn);
+    public ResponseEntity<BookDto> findBookByIsbn(@PathVariable("isbn") Long isbn){
+        return new ResponseEntity<>(bookService.findByIsbn(isbn), HttpStatus.FOUND);
     }
 
     @GetMapping("/findBookByTitle/{title}")
     public ResponseEntity<BookDto> findBookByTitle(@PathVariable("title") String title){
-        return bookService.findByTitle(title);
+        return new ResponseEntity<>(bookService.findByTitle(title), HttpStatus.FOUND);
     }
 
     @GetMapping("/findAllBookOfAuthor/{authorName}")
     public ResponseEntity<List<BookDto>>findAllBookOfAuthor(@PathVariable("authorName")String authorName ){
-        return bookService.findAllFromAuthor(authorName);
+        return new ResponseEntity<>(bookService.findAllFromAuthor(authorName), HttpStatus.FOUND);
     }
 
     @PostMapping("/addBookToInventory/{isbn}")
@@ -81,12 +77,18 @@ public class Controller {
     }
 
     @GetMapping("getAllIsbn")
-    public List<Long>getAllIsbn(){
-        return bookService.getAllIsbn();
+
+    public ResponseEntity<List<Long>>getAllIsbn(){
+        return new ResponseEntity<>(bookService.getAllIsbn(),HttpStatus.FOUND);
     }
 
     @GetMapping("populateInventory")
     public ResponseEntity<List<Inventory>> populateInventory(){
         return inventoryService.populateInventory();
+    }
+
+    @GetMapping("getBookAuthorInventoryOneQuery/{title}")
+    public ResponseEntity<Optional<BookAuthorInventoryDto>>getBookAuthorInventoryDtoOneQuery(@PathVariable("title")String title){
+        return bookAuthorInventoryService.getBookAuthorInventoryOneQuery(title);
     }
 }
