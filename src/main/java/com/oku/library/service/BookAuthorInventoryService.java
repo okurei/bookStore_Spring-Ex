@@ -10,6 +10,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
+import java.util.Optional;
+
 @Service
 @AllArgsConstructor
 public class BookAuthorInventoryService {
@@ -26,7 +28,7 @@ public class BookAuthorInventoryService {
         return ResponseEntity.ok(new BookAuthorInventoryDto(bookDto,author,inventory));
     }
 
-    public ResponseEntity<BookAuthorInventoryDto> getBookAuthorInventoryOneQuery(String title){
+    public ResponseEntity<Optional<BookAuthorInventoryDto>> getBookAuthorInventoryOneQuery(String title){
         return ResponseEntity.ok(bookRepo.findBookAuthorInventory(title));
     }
 

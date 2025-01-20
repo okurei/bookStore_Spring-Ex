@@ -87,7 +87,7 @@ public class Controller {
     }
 
     @GetMapping("getBookAuthorInventoryOneQuery/{title}")
-    public ResponseEntity<BookAuthorInventoryDto>getBookAuthorInventoryDtoOneQuery(@PathVariable("title")String title){
+    public ResponseEntity<Optional<BookAuthorInventoryDto>>getBookAuthorInventoryDtoOneQuery(@PathVariable("title")String title){
         return bookAuthorInventoryService.getBookAuthorInventoryOneQuery(title);
     }
 }
