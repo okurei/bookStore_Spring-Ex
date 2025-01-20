@@ -21,18 +21,24 @@ public class BookService {
     private final BookRepo bookRepo;
     @Autowired private AuthorService authorService;
 
-
     public ResponseEntity<List<BookDto>> addBooks(List<Book> bookList) {
         Map<Boolean, List<Book>> listMap = bookList.stream().collect(Collectors.partitioningBy(this::checkBooks));
+
         List<Book> discardBookList = listMap.get(false);
+
         if(!discardBookList.isEmpty()){
-            throw new FKConstrainViolation("Author not present in the db for the following: " + discardBookList);
+            List<Long>isbn = discardBookList.stream().map(Book::getIsbn).toList();
+            throw new FKConstrainViolation("Author not present in the db for the following book: " + isbn);
         }
 
         List<Book> filteredBookList = listMap.get(true);
-        bookRepo.saveAll(filteredBookList);
-        List<BookDto> bookDtoList = filteredBookList.stream().map(BookDto::bookToDto).toList();
-        return ResponseEntity.ok(bookDtoList);
+        if(filteredBookList.isEmpty()) {
+            throw new RuntimeException("No book to save");
+        }else {
+            bookRepo.saveAll(filteredBookList);
+            List<BookDto> bookDtoList = filteredBookList.stream().map(BookDto::bookToDto).toList();
+            return ResponseEntity.ok(bookDtoList);
+        }
     }
 
     private Boolean checkBooks(Book book){

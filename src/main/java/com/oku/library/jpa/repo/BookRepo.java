@@ -1,10 +1,12 @@
 package com.oku.library.jpa.repo;
 
+import com.oku.library.controller.dto.BookAuthorInventoryDto;
 import com.oku.library.controller.dto.IsbnOnly;
 import com.oku.library.jpa.entity.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
@@ -23,4 +25,7 @@ public interface BookRepo extends JpaRepository<Book, Long> {
     List<Book> findAllBookOfAuthor(@Param("authorName") String authorName);
 
     List<IsbnOnly> findAllBy();
+
+    @Query("SELECT new com.oku.library.controller.dto.BookAuthorInventoryDto(b.isbn, b.title, b.publishDate, a.authorName, a.authorSurname, i.price, i.stock) from Inventory i JOIN Book b ON i.isbn = b.isbn JOIN Author a on a.authorId = b.author.authorId WHERE b.title = :title")
+    BookAuthorInventoryDto findBookAuthorInventory(@Param("title") String title);
 }

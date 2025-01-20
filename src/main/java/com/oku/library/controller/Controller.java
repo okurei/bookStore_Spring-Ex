@@ -85,4 +85,9 @@ public class Controller {
     public ResponseEntity<List<Inventory>> populateInventory(){
         return inventoryService.populateInventory();
     }
+
+    @GetMapping("getBookAuthorInventoryOneQuery/{title}")
+    public ResponseEntity<BookAuthorInventoryDto>getBookAuthorInventoryDtoOneQuery(@PathVariable("title")String title){
+        return bookAuthorInventoryService.getBookAuthorInventoryOneQuery(title);
+    }
 }
