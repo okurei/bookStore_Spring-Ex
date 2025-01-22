@@ -7,9 +7,14 @@ import com.oku.library.jpa.entity.Book;
 import com.oku.library.jpa.repo.BookRepo;
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
+import org.springframework.data.domain.Pageable;
+import org.springframework.data.domain.Sort;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
+import java.time.Year;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -68,4 +73,13 @@ public class BookService {
         return isbn.stream().map(IsbnOnly::getIsbn).toList();
     }
 
+    public Page<Book> getAllBook(int page, int size) {
+        Pageable pageable = PageRequest.of(page, size, Sort.by("title"));
+        return bookRepo.findAll(pageable);
+    }
+
+    public Page<Book> getBookByPublishYear(int page, int size, Year initialDate, Year endDate) {
+        Pageable pageable = PageRequest.of(page, size, Sort.by("publishDate"));
+        return bookRepo.findAllByPublishDate(pageable, initialDate, endDate);
+    }
 }
