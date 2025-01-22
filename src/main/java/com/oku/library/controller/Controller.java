@@ -18,6 +18,8 @@ import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.http.ResponseEntity;
 
+import java.math.BigDecimal;
+import java.math.BigInteger;
 import java.time.Year;
 import java.util.List;
 import java.util.Optional;
@@ -95,7 +97,9 @@ public class Controller {
     }
 
     @GetMapping("getBooksPage")
-    public ResponseEntity<Page<Book>> getBooksPage(@RequestParam(defaultValue = "0") int page, @RequestParam(defaultValue = "10") int size){
+    public ResponseEntity<Page<Book>> getBooksPage(
+            @RequestParam(defaultValue = "0") int page,
+            @RequestParam(defaultValue = "10") int size){
         Page<Book> books = bookService.getAllBook(page, size);
         return ResponseEntity.ok(books);
     }
@@ -108,5 +112,12 @@ public class Controller {
             @RequestParam(defaultValue = "9999") Year endDate){
         Page<Book> books = bookService.getBookByPublishYear(page, size, initialDate,endDate);
         return ResponseEntity.ok(books);
+    }
+
+    @GetMapping("getBookWhitPriceRange")
+    public ResponseEntity<List<Inventory>> getBookPrice(
+            @RequestParam(defaultValue = "0")BigDecimal priceLower,
+            @RequestParam(defaultValue = "9999")BigDecimal priceUpper){
+        return ResponseEntity.ok(inventoryService.getBookPriceRange(priceLower, priceUpper));
     }
 }
