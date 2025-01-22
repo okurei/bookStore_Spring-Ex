@@ -79,6 +79,7 @@ public class Controller {
     }
 
     @GetMapping("getAllIsbn")
+
     public ResponseEntity<List<Long>>getAllIsbn(){
         return new ResponseEntity<>(bookService.getAllIsbn(),HttpStatus.FOUND);
     }

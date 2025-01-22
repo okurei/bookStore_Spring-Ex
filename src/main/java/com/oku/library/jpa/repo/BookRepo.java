@@ -1,6 +1,8 @@
 package com.oku.library.jpa.repo;
 
+
 import com.oku.library.controller.dto.BookAuthorInventoryDto;
+import com.oku.library.controller.dto.BookDto;
 import com.oku.library.controller.dto.IsbnOnly;
 import com.oku.library.jpa.entity.Book;
 import org.springframework.data.domain.Page;
@@ -8,6 +10,7 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Repository;
 
 import java.time.Year;
@@ -32,6 +35,8 @@ public interface BookRepo extends JpaRepository<Book, Long> {
             " from Inventory i JOIN Book b ON i.isbn = b.isbn JOIN Author a on a.authorId = b.author.authorId WHERE b.title = :title")
     Optional<BookAuthorInventoryDto> findBookAuthorInventory(@Param("title") String title);
 
+
     @Query("SELECT b FROM Book b where b.publishDate BETWEEN :publishDate1 AND :publishDate2")
     Page<Book> findAllByPublishDate(Pageable pageable ,@Param("publishDate1") Year initialDate,@Param("publishDate2") Year endDate);
+
 }
