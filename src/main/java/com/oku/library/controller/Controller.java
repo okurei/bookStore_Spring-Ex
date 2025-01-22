@@ -12,11 +12,13 @@ import com.oku.library.service.BookAuthorInventoryService;
 import com.oku.library.service.BookService;
 import com.oku.library.service.InventoryService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
 import org.springframework.data.repository.query.Param;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.http.ResponseEntity;
 
+import java.time.Year;
 import java.util.List;
 import java.util.Optional;
 
@@ -90,5 +92,21 @@ public class Controller {
     @GetMapping("getBookAuthorInventoryOneQuery/{title}")
     public ResponseEntity<Optional<BookAuthorInventoryDto>>getBookAuthorInventoryDtoOneQuery(@PathVariable("title")String title){
         return bookAuthorInventoryService.getBookAuthorInventoryOneQuery(title);
+    }
+
+    @GetMapping("getBooksPage")
+    public ResponseEntity<Page<Book>> getBooksPage(@RequestParam(defaultValue = "0") int page, @RequestParam(defaultValue = "10") int size){
+        Page<Book> books = bookService.getAllBook(page, size);
+        return ResponseEntity.ok(books);
+    }
+
+    @GetMapping("getBookByPublishDate")
+    public ResponseEntity<Page<Book>> getBookByPublishDate(
+            @RequestParam(defaultValue = "0")int page,
+            @RequestParam(defaultValue = "10") int size,
+            @RequestParam(defaultValue = "0")Year initialDate,
+            @RequestParam(defaultValue = "9999") Year endDate){
+        Page<Book> books = bookService.getBookByPublishYear(page, size, initialDate,endDate);
+        return ResponseEntity.ok(books);
     }
 }
